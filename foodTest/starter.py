@@ -85,4 +85,4 @@ inspector = inspect(engine)
 inspector.get_table_names()
 
 # Transfering the datatable in database
-yelp_df.to_sql(name='yelpdata2', con=engine, if_exists='append', index=True)
+yelp_df.to_sql(name='yelpdata1', con=engine, if_exists='append', index=True)

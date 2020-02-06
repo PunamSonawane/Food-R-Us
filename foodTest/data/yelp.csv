@@ -1,0 +1,1001 @@
+,index,rname,fcategory,Rating,lat,long,address,city,phone
+0,0,Eataly,Italian,3.5,43.6696154170451,-79.3887948598768,55 Bloor Street W,Toronto,+1 437-374-0250
+1,1,Steam Whistle Brewing,Breweries,4.5,43.6411408794168,-79.3852350950461,255 Bremner Boulevard,Toronto,+1 416-362-2337
+2,2,Taro's Fish,Seafood Markets,4.5,43.76986,-79.37455,800 Sheppard Avenue E,Toronto,+1 416-730-8555
+3,3,Northern Maverick Brewing Co,Brewpubs,3.5,43.6450941,-79.4029665,115 Bathurst Street,Toronto,+1 416-540-4030
+4,4,Pai Northern Thai Kitchen,Thai,4.5,43.64784,-79.38872,18 Duncan Street,Toronto,+1 416-901-4724
+5,5,Park Snacks,Ice Cream & Frozen Yogurt,4.0,43.6669006,-79.3631592,161 Winchester Street,Toronto,+1 647-668-6787
+6,6,Amsterdam BrewHouse,Breweries,3.5,43.6379121284171,-79.3847308982186,245 Queens Quay W,Toronto,+1 416-504-1020
+7,7,Mira,Peruvian,4.5,43.64417,-79.39639,420A Wellington Street W,Toronto,+1 647-951-3331
+8,8,PŌPA,Burmese,4.5,43.76922,-79.38833,2901 Bayview Avenue,Toronto,
+9,9,New Orleans Seafood & Steakhouse,Seafood,5.0,43.67775,-79.50611,267 Scarlett Road,Toronto,+1 416-766-7001
+10,10,Chef & Somm,Caterers,5.0,43.7313984461704,-79.46578048617,804B Wilson Avenue,Toronto,+1 647-284-5530
+11,11,Silver Spoon Take Out Catering,Caterers,3.0,43.79149,-79.25154,4800 Sheppard Avenue E,Scarborough,+1 416-293-2689
+12,12,KINKA IZAKAYA ORIGINAL,Japanese,4.0,43.66045,-79.37915,398 Church Street,Toronto,+1 416-977-0999
+13,13,The Bedford Academy,Pubs,3.5,43.66963,-79.39719,36 Prince Arthur Avenue,Toronto,+1 416-921-4600
+14,14,Mill Street Retail Store,"Beer, Wine & Spirits",4.5,43.6504424511321,-79.3584427521102,55 Mill St,Toronto,+1 416-681-0338
+15,15,Gusto 101,Italian,4.0,43.645002131066,-79.400309337027,101 Portland Street,Toronto,+1 416-504-9669
+16,16,Aburi Hana,Sushi Bars,5.0,43.671011,-79.3925961,102 Yorkville Avenue,Toronto,+1 647-343-8887
+17,17,Wide Open,Dive Bars,3.5,43.64759,-79.39556,139A Spadina Avenue,Toronto,
+18,18,Cafe Landwer,Cafes,4.0,43.64875,-79.38491,165 University Avenue,Toronto,+1 647-748-1165
+19,19,KINKA IZAKAYA HARBOURFRONT,Japanese,4.0,43.64157,-79.37978,110 Harbour Street,Toronto,+1 647-348-0110
+20,20,Elle Cuisine,Caterers,5.0,43.6735113,-79.351375,56 Hampton Avenue,Toronto,+1 647-430-3553
+21,21,Midfield,Wine Bars,3.5,43.64976,-79.43002,1434 Dundas Street W,Toronto,+1 647-345-7005
+22,22,Sabai Sabai Kitchen and Bar,Laotian,4.0,43.6704534404129,-79.3847215948792,81 Bloor Street E,Toronto,+1 647-748-4225
+23,23,Mineral,Noodles,4.5,43.67763,-79.38947,1027 Yonge Street,Toronto,+1 416-925-8565
+24,24,Pearl Diver,Seafood,4.0,43.65163,-79.37375,100 Adelaide Street E,Toronto,+1 416-366-7827
+25,25,The Elm Tree Restaurant,Mediterranean,4.5,43.6572873032448,-79.3836965529587,43 Elm Street,Toronto,+1 416-901-7339
+26,26,Ontario Spring Water Sake Company,Breweries,4.5,43.64989,-79.36002,51 Gristmill Lane,Toronto,+1 416-365-7253
+27,27,Wychwood Pub,Pubs,2.0,43.6828784,-79.4189154,517 Saint Clair Avenue W,Toronto,+1 416-535-2715
+28,28,Maison Selby,French,4.0,43.67112,-79.37705,592 Sherbourne Street,Toronto,+1 647-943-1676
+29,29,Katsuya,Japanese,4.5,43.65995,-79.37882,66 Gerrard Street E,Toronto,+1 416-591-7756
+30,30,Byblos,Mediterranean,4.5,43.647546,-79.388123,11 Duncan Street,Toronto,+1 647-660-0909
+31,31,The Shameful Tiki Room,Tiki Bars,4.0,43.64145,-79.43328,1378 Queen W,Toronto,
+32,32,Craque de Creme,Desserts,4.0,43.67982,-79.41723,1360 Bathurst Street,Toronto,+1 647-699-8233
+33,33,Rasa,Canadian (New),4.5,43.6627752,-79.4039682,196 Robert Street,Toronto,+1 647-350-8221
+34,34,The Distillery District,Local Flavor,4.0,43.6501356745219,-79.3594944505402,55 Mill Street,Toronto,+1 416-364-1177
+35,35,Tasty Tours,Desserts,4.5,43.6547007,-79.4009335,"Toronto, ON M5T 1L8",Toronto,+1 416-871-7133
+36,36,Loch & Quay,Canadian (New),4.0,43.63812,-79.39064,390 Queens Quay W,Toronto,+1 416-595-5444
+37,37,Hi-Lo Bar,Bars,4.0,43.6591034463612,-79.3479657363007,753 Queen Street E,Toronto,+1 416-551-3459
+38,38,Playa Cabana,Mexican,4.0,43.6759577692695,-79.4011840224266,111 Dupont Street,Toronto,+1 416-929-3911
+39,39,The Haam,Japanese,4.0,43.64743,-79.39308,342 Adelaide St W,Toronto,+1 416-977-7258
+40,40,Moliceiro Restaurant,Portuguese,4.5,43.64888,-79.42016,217 Ossington Avenue,Toronto,+1 647-345-3019
+41,41,"The Westin Harbour Castle, Toronto",Hotels,3.0,43.641066788738,-79.376205722878,1 Harbour Square,Toronto,+1 416-869-1600
+42,42,Khao San Road,Thai,4.0,43.64634,-79.39359,11 Charlotte Street,Toronto,+1 647-352-5773
+43,43,Grazie Ristorante,Italian,4.0,43.70934,-79.39852,2373 Yonge Street,Toronto,+1 416-488-0822
+44,44,Alo Restaurant,Bars,4.5,43.64851,-79.39584,163 Spadina Avenue,Toronto,+1 416-260-2222
+45,45,Aloette,French,4.5,43.64851,-79.39584,163 Spadina Avenue,Toronto,+1 416-260-3444
+46,46,Agio,Italian,4.5,43.67599,-79.45066,1351 St Clair Avenue W,Toronto,+1 647-348-4814
+47,47,Scaramouche Restaurant Pasta Bar & Grill,French,4.5,43.68155,-79.39991,1 Benvenuto Place,Toronto,+1 416-961-8011
+48,48,Tinuno,Filipino,4.0,43.6711430082347,-79.374853497263,31 Howard Street,Toronto,+1 647-343-9294
+49,49,Joso's,Seafood,4.5,43.6751099,-79.39607,202 Davenport Road,Toronto,+1 416-925-1903
+50,50,L'Unita Enoteca,Italian,4.5,43.67431,-79.39668,134 Avenue Road,Toronto,+1 416-964-8686
+51,51,The Oxley,Gastropubs,4.0,43.6707168,-79.393126,121 Yorkville Avenue,Toronto,+1 647-348-1300
+52,52,The Hazelton Hotel,Hotels,4.5,43.6708347,-79.3937136,118 Yorkville Avenue,Toronto,+1 416-963-6300
+53,53,The Piston,Music Venues,3.5,43.6614,-79.42758,937 Bloor Street,Toronto,+1 416-532-3989
+54,54,Ramona's Kitchen,Breakfast & Brunch,5.0,43.66632,-79.40655,384 Bloor St West,Toronto,+1 905-597-9220
+55,55,Koh Lipe Thai Kitchen,Thai,4.0,43.65586,-79.39347,35 Baldwin Street,Toronto,+1 416-599-9988
+56,56,Mangia & Bevi,Italian,4.0,43.6522238965965,-79.366307258606,260 King Street E,Toronto,+1 416-613-1236
+57,57,The Lockhart,Bars,4.0,43.64947,-79.43111,1479 Dundas Street W,Toronto,+1 647-748-4434
+58,58,Casa Fuego,Steakhouses,4.5,43.6485,-79.3882,230 Adelaide Street West,Toronto,+1 647-748-3210
+59,59,Trattoria Nervosa,Italian,4.0,43.67101,-79.39104,75 Yorkville Avenue,Toronto,+1 416-961-4642
+60,60,Kintaro Izakaya,Japanese,4.0,43.66417,-79.38006,459 Church Street,Toronto,+1 647-560-5335
+61,61,Si Lom Thai Bistro,Thai,4.0,43.66503,-79.38082,534 Church Street,Toronto,+1 416-515-0888
+62,62,Giulietta,Italian,4.0,43.65353,-79.42764,972 College Street W,Toronto,+1 416-964-0606
+63,63,Mildred's Temple Kitchen,Breakfast & Brunch,4.0,43.6399108749312,-79.4204235076904,85 Hanna Avenue,Toronto,+1 416-588-5695
+64,64,Seven Lives Tacos Y Mariscos,Mexican,4.5,43.6543411559068,-79.4004796072841,69 Kensington Avenue,Toronto,+1 416-393-4636
+65,65,Catering by Mario,Caterers,5.0,43.85456,-79.37885,95 E Beaver Creek Road,Richmond Hill,+1 905-881-0477
+66,66,Jacobs & Co. Steakhouse,Steakhouses,4.5,43.64539876116,-79.3980279011192,12 Brant Street,Toronto,+1 416-366-0200
+67,67,Juicy Dumpling,Dim Sum,4.0,43.6527250786074,-79.3986365944147,280 Spadina Ave,Toronto,+1 647-352-5678
+68,68,Demen Bistro,Vietnamese,4.5,43.6479352959741,-79.4012527540326,500 Queen Street W,Toronto,+1 416-364-2888
+69,69,Hawaii Bar,Bars,4.5,43.66708,-79.43136,989 Dovercourt Road,Toronto,+1 416-588-9888
+70,70,Osteria Rialto,Italian,4.0,43.66114,-79.43072,1006 Bloor Street W,Toronto,+1 416-306-8123
+71,71,Gyugyuya,Japanese,4.5,43.66607,-79.40773,402 Bloor Street W,Toronto,+1 647-343-7700
+72,72,Nodo Restaurant,Italian,4.5,43.6810110636599,-79.4297991693019,794 Saint Clair Avenue W,Toronto,+1 647-748-1559
+73,73,Zhang's Kitchen,Chinese,4.0,43.6575942831961,-79.3824705854058,13 Elm Street,Toronto,+1 647-343-4302
+74,74,L-Eat Catering,Caterers,5.0,43.7397599,-79.43419,3829 Bathurst Street,Toronto,+1 416-631-9226
+75,75,Uber,Taxis,3.0,43.7008247375488,-79.2954788208008,"Toronto, ON M4B 1B4",Toronto,+1 647-931-4827
+76,76,Buca,Italian,4.0,43.64462,-79.40045,604 King Street W,Toronto,+1 416-865-1600
+77,77,Lobster Burger Bar,Bars,4.0,43.647443,-79.386768,214 King Street W,Toronto,+1 416-598-2929
+78,78,Miku,Japanese,4.0,43.6412346,-79.3773697,105-10 Bay Street,Toronto,+1 647-347-7347
+79,79,Her Father's Cider Bar & Kitchen,Gastropubs,4.5,43.66232,-79.40453,119 Harbord Street,Toronto,+1 647-347-7747
+80,80,Okonomi House Restaurant,Japanese,4.0,43.668311069021,-79.387133746804,23 Charles Street W,Toronto,+1 416-925-6176
+81,81,Insomnia Restaurant & Lounge,Lounges,4.0,43.665961,-79.411003,563 Bloor Street W,Toronto,+1 416-588-3907
+82,82,Fishman Lobster Clubhouse Restaurant,Chinese,4.0,43.8019756,-79.295159,4020 Finch Avenue E,Toronto,+1 416-321-0250
+83,83,Fieramosca,Italian,4.5,43.66963,-79.39719,36A Prince Arthur Avenue,Toronto,+1 416-323-0636
+84,84,Ristorante Sotto Sotto,Italian,4.0,43.67374,-79.39646,120 Avenue Road,Toronto,+1 416-962-0011
+85,85,Chubby's Jamaican Kitchen,Caribbean,4.0,43.64532,-79.40066,104 Portland Street,Toronto,+1 416-792-8105
+86,86,KINKA IZAKAYA ANNEX,Japanese,4.0,43.6650736,-79.4106256,559 Bloor Street West,Toronto,+1 647-343-1101
+87,87,Hanmoto,Japanese,4.0,43.6496607271294,-79.4226812887605,2 Lakeview Avenue,Toronto,
+88,88,Famiglia Baldassarre,Italian,4.5,43.67052,-79.4350599,122 Geary Avenue,Toronto,+1 647-293-5395
+89,89,Honest Weight,Seafood,4.5,43.6653335939817,-79.4614855543404,2766 Dundas Street W,Toronto,+1 416-604-9992
+90,90,WAYLA Lounge,Lounges,4.0,43.66131,-79.33955,996 Queen St E,Toronto,+1 416-901-5570
+91,91,Planta Yorkville,Tapas/Small Plates,4.0,43.6702150961667,-79.3894335574237,1221 Bay Street,Toronto,+1 647-348-7000
+92,92,Yasu,Japanese,4.5,43.66269,-79.40314,81 Harbord Street,Toronto,+1 416-477-2361
+93,93,Left Field Brewery,Breweries,4.0,43.67379,-79.3304825,36 Wagstaff Drive,Toronto,+1 647-346-5001
+94,94,Gyubee Japanese Grill - Bloor,Barbeque,4.0,43.66716,-79.40047,335 Bloor Street W,Toronto,+1 416-551-9767
+95,95,Buca Yorkville,Italian,3.5,43.67214,-79.3894,53 Scollard Street,Toronto,+1 416-962-2822
+96,96,FK,French,4.5,43.68127,-79.42869,770 St Clair Avenue W,Toronto,+1 416-551-9731
+97,97,Natalie's Kitchen,Caterers,4.5,43.6735777,-79.5490243,516 The Kingsway,Etobicoke,+1 647-999-9564
+98,98,GB Hand-pulled Noodles,Chinese,4.0,43.65669,-79.38385,66 Edward Street,Toronto,+1 647-872-1336
+99,99,Mill Street Brew Pub,Brewpubs,3.5,43.6504424511321,-79.3584427521102,21 Tank House Lane,Toronto,+1 416-681-0338
+100,100,Jin Dal Lae,Korean,4.5,43.664166,-79.41517,647 Bloor Street W,Toronto,+1 416-530-6974
+101,101,Evviva Breakfast & Lunch - Downtown Toronto,Breakfast & Brunch,4.0,43.641602,-79.383301,25 Lower Simcoe,Toronto,+1 647-351-4040
+102,102,Beast Restaurant,Canadian (New),4.0,43.64408,-79.4057799,96 Tecumseth Street,Toronto,+1 647-352-6000
+103,103,I'll Be Seeing You,Cocktail Bars,5.0,43.65901,-79.34805,747 Queen Street E,Toronto,
+104,104,Recipieces,Food Delivery Services,4.5,43.6535110473633,-79.3972244262695,"Toronto, ON M5T",Toronto,
+105,105,Silver Chopsticks,Vietnamese,5.0,43.69016,-79.57594,621 Dixon Road,Toronto,+1 647-348-8882
+106,106,Sugo,Italian,4.5,43.65831,-79.44223,1279 Bloor Street  W,Toronto,+1 416-535-1717
+107,107,El Nahual Tacos,Mexican,4.5,43.6663274,-79.4065874,384 Bloor street west,Toronto,+1 416-901-2988
+108,108,Lee Restaurant,Asian Fusion,4.0,43.644144,-79.400384,601 King Street W,Toronto,+1 416-504-7867
+109,109,Guu Izakaya Toronto,Japanese,4.0,43.6418673011168,-79.4310904074585,1314 Queen Street W,Toronto,+1 647-351-1314
+110,110,Nord Bistro,Bistros,4.5,43.6739000396702,-79.4114698306885,406 Dupont Street,Toronto,+1 416-925-6673
+111,111,Nodo Restaurant,Italian,4.0,43.6653383989619,-79.4656616449356,2885 Dundas Street West,Toronto,+1 416-901-1559
+112,112,Kinoya Sushi Bar,Sushi Bars,4.0,43.64629,-79.38997,293 King Street W,Toronto,+1 416-599-8828
+113,113,The Stockyards,American (Traditional),4.0,43.68136,-79.42619,699 St. Clair Avenue W,Toronto,+1 416-658-9666
+114,114,Swatow Restaurant,Chinese,4.0,43.65385,-79.39796,309 Spadina Avenue,Toronto,+1 416-977-0601
+115,115,Three Monks and a Duck,Asian Fusion,4.5,43.64605,-79.40897,811 Queen Street W,Toronto,+1 416-901-9588
+116,116,Cafe Oro Di Napoli,Pizza,4.5,43.6514257145518,-79.3721591972351,75 Jarvis Street,Toronto,+1 416-315-7979
+117,117,Dreyfus,French,4.0,43.66302,-79.40327,96 Harbord Street,Toronto,+1 416-323-1385
+118,118,Daldongnae,Korean,4.0,43.78971,-79.41825,6034 Yonge Street,Toronto,+1 416-226-6034
+119,119,Chinatown Centre,Local Flavor,3.5,43.65093,-79.3978,222 Spadina Avenue,Toronto,+1 416-599-8877
+120,120,Tabriz Persian Cookhouse,Persian/Iranian,4.0,43.66529,-79.38722,995 Bay street,Toronto,+1 416-922-2017
+121,121,Pantheon Restaurant,Greek,4.0,43.67744,-79.35129,407 Danforth Avenue,Toronto,+1 416-778-1929
+122,122,Don Alfonso 1890,Italian,4.0,43.65052,-79.37594,19 Toronto Street,Toronto,+1 416-214-5888
+123,123,Assembly Chef's Hall,Food Court,4.0,43.6503522,-79.3837951,111 Richmond Street W,Toronto,+1 647-557-5993
+124,124,Bar Isabel,Spanish,4.0,43.65463,-79.42075,797 College Street,Toronto,+1 416-532-2222
+125,125,Mogouyan,Noodles,4.0,43.66943,-79.38671,760 Yonge St,Toronto,
+126,126,Magical Taste of China,Chinese,4.0,43.6535001316136,-79.3948590382934,405 Dundas Street W,Toronto,+1 647-348-8966
+127,127,La Paella,Spanish,4.5,43.6625299,-79.33427,1146 Queen Street E,Toronto,+1 416-546-1055
+128,128,Budapest Restaurant,Hungarian,4.5,43.68097,-79.30996,1959 Gerrard Street E,Toronto,+1 647-347-5047
+129,129,Dirty Food Eatery,Breakfast & Brunch,4.5,43.66565,-79.47188,3070 Dundas Street W,Toronto,+1 416-855-3393
+130,130,Chabrol Restaurant,French,4.0,43.67115,-79.3918,90 Yorkville Avenue,Toronto,+1 416-428-6641
+131,131,Ikkousha Ramen,Ramen,4.5,43.65024,-79.38873,249 Queen Street W,Toronto,+1 416-901-2249
+132,132,Hotopia Downtown,Chinese,3.5,43.66138,-79.3804,45 Carlton Street,Toronto,+1 416-977-8668
+133,133,Pearl Harbourfront Chinese Cuisine,Dim Sum,3.5,43.63877,-79.3806,207 Queens Quay W,Toronto,+1 416-203-1233
+134,134,The Senator,Breakfast & Brunch,4.0,43.65574,-79.37896,249 Victoria Street,Toronto,+1 416-364-7517
+135,135,Nuit Social,Cocktail Bars,4.5,43.64303,-79.42542,1168 Queen Street W,Toronto,+1 647-350-6848
+136,136,Her Chef,Asian Fusion,4.5,43.66457,-79.41292,599 Bloor Street W,Toronto,+1 647-830-7719
+137,137,Sisters & Co,Breakfast & Brunch,4.5,43.65097,-79.41172,887 Dundas Street West,Toronto,+1 647-350-7478
+138,138,Smoque N' Bones,Barbeque,4.0,43.6457027819391,-79.4107432752393,869 Queen Street W,Toronto,+1 647-341-5730
+139,139,Wilbur Mexicana,Mexican,4.0,43.64494,-79.39866,552 King Street W,Toronto,+1 416-792-1878
+140,140,Onnki Donburi,Japanese,4.0,43.66996,-79.38455,40 Hayden Street,Toronto,+1 647-349-7707
+141,141,Tibet Kitchen,Himalayan/Nepalese,4.5,43.640095,-79.439659,1544 Queen Street W,Toronto,+1 416-913-8726
+142,142,DaiLo,Chinese,4.0,43.65574,-79.4098,503 College Street,Toronto,+1 647-341-8882
+143,143,Mi Tierra Restaurant,Latin American,4.0,43.68082,-79.43111,828 Street  Clair Ave W,Toronto,+1 416-654-8886
+144,144,Korean Village Restaurant,Korean,4.0,43.66461,-79.41444,628 Bloor Street W,Toronto,+1 416-536-0290
+145,145,White Lily Diner,Breakfast & Brunch,4.5,43.65881,-79.3511599,678 Queen Street E,Toronto,+1 416-901-7800
+146,146,Omai Restaurant,Japanese,4.0,43.6561,-79.39234,3 Baldwin Street,Toronto,+1 647-341-7766
+147,147,Jacques' Bistro Du Parc,French,4.0,43.6700941,-79.3920355,126 Cumberland St,Toronto,+1 416-961-1893
+148,148,Bar Sybanne,Mediterranean,4.5,43.64913,-79.42028,229 Ossington Avenue,Toronto,+1 647-350-9229
+149,149,Baretto Caffe,Cafes,5.0,43.74471,-79.34643,1262 Don Mills Road,Toronto,+1 416-385-0003
+150,150,Islas Filipino BBQ and Bar,Filipino,4.5,43.6393,-79.4446,1690 Queen Street W,Toronto,+1 416-533-0777
+151,151,Kingyo,Japanese,4.0,43.6658629,-79.3681972,51B Winchester Street,Toronto,+1 647-748-2121
+152,152,Odd Seoul,Korean,4.0,43.64619,-79.419686,90 Ossington Avenue,Toronto,+1 647-346-8151
+153,153,Cinco Mexican Restaurant,Mexican,4.5,43.643092,-79.447663,131 Roncesvalles Ave,Toronto,+1 647-245-8380
+154,154,Anatolia Restaurant,Turkish,4.0,43.64471,-79.53299,5112 Dundas Street W,Toronto,+1 416-207-0596
+155,155,Yummy Korean Food Restaurant,Korean,4.0,43.66469,-79.4140199,620 Bloor Street W,Toronto,+1 647-345-6588
+156,156,Piano Piano,Italian,3.5,43.7045,-79.3883,623 Mt Pleasant Road,Toronto,+1 416-483-9789
+157,157,Five Doors North,Italian,4.0,43.7022152689328,-79.3976143730163,2088 Yonge Street,Toronto,+1 416-480-6234
+158,158,Auberge du Pommier,French,4.0,43.7468226,-79.4077734,4150 Yonge Street,Toronto,+1 416-222-2220
+159,159,Imm Thai Kitchen,Thai,4.5,43.65484,-79.41598,651 College Street,Toronto,+1 416-532-6888
+160,160,Otto's Bierhalle,German,4.0,43.64335,-79.42202,1087 Queen Street W,Toronto,+1 416-901-5472
+161,161,La Chingada,Mexican,4.0,43.6495234427446,-79.4242079757355,1242 Dundas Street West,Toronto,+1 416-535-2242
+162,162,Viaggio,Italian,4.5,43.6499275270851,-79.4390283152461,1727 Dundas St W,Toronto,+1 416-519-8165
+163,163,Ooshee Mediterranean Oven,Lebanese,5.0,43.66848,-79.38678,9 Charles Street W,Toronto,
+164,164,Carisma,Italian,4.0,43.65032,-79.37596,15 Toronto Street,Toronto,+1 416-864-7373
+165,165,CN Tower,Landmarks & Historical Buildings,4.0,43.642561,-79.387062,301 Front St W,Toronto,+1 416-868-6937
+166,166,Radisson Admiral Hotel Toronto-Harbourfront,Hotels,3.5,43.6386255355039,-79.3872249365235,249 Queen's Quay West,Toronto,+1 416-203-3333
+167,167,Patria,Spanish,4.0,43.6455399,-79.39641,480 King Street W,Toronto,+1 416-367-0505
+168,168,Le Baratin,French,4.5,43.65007,-79.4351,1600 Dundas Street. W,Toronto,+1 416-534-8800
+169,169,Balsamico Ristorante,Italian,4.5,43.70154,-79.39697,2029 Yonge St,Toronto,+1 647-348-0337
+170,170,Nomé Izakaya,Lounges,4.0,43.7626495361328,-79.4114685058594,4848 Yonge Street,Toronto,+1 647-347-7937
+171,171,FET ZUN,Middle Eastern,4.5,43.67524,-79.40636,252 Dupont St,Toronto,+1 647-352-3337
+172,172,Daldongnae,Korean,4.0,43.6642855,-79.415693,658 Bloor Street,Toronto,+1 416-901-2820
+173,173,Luna Junction,Portuguese,4.5,43.6656,-79.46276,2800 Dundas St W,Toronto,+1 416-762-4116
+174,174,Blu Ristorante,Italian,4.0,43.6716078104954,-79.388438500464,17 Yorkville Ave,Toronto,+1 416-921-1471
+175,175,Museum Tavern,American (Traditional),3.5,43.6686897,-79.3958511,208 Bloor Street W,Toronto,+1 416-920-0110
+176,176,Lamesa Filipino Kitchen,Filipino,4.0,43.682297,-79.423948,634 St Clair Avenue W,Toronto,+1 647-343-1110
+177,177,Bodega Henriette,Breakfast & Brunch,4.5,43.65159,-79.3678,234 King Street E,Toronto,
+178,178,Tokyo Kitchen,Japanese,4.0,43.66908,-79.38509,20 Charles Street E,Toronto,+1 416-968-9889
+179,179,Enoteca Sociale,Italian,4.0,43.6496799,-79.42567,1288 Dundas St W,Toronto,+1 416-534-1200
+180,180,Bar Buca,Bars,4.0,43.6439229362435,-79.3998403851863,75 Portland Street,Toronto,+1 416-599-2822
+181,181,EAT BKK Thai Kitchen & Bar,Thai,4.5,43.7956999,-79.41915,6307 Yonge Street,Toronto,+1 647-350-9336
+182,182,Mykonos Mediterranean Grill,Greek,4.0,43.67436,-79.38799,881 Yonge Street,Toronto,+1 416-963-8444
+183,183,Madrina Bar y Tapas,Tapas Bars,4.0,43.65044,-79.35992,2 Trinity Street,Toronto,+1 416-548-8055
+184,184,Pinky's Ca Phe,Vietnamese,4.0,43.6557045377745,-79.4138196639558,53 Clinton Street,Toronto,
+185,185,Gio Rana's Really Really Nice Restaurant,Italian,4.0,43.663335336163,-79.3304189287309,1220 Queen Street East,Toronto,+1 416-469-5225
+186,186,Hacienda las Américas,Mexican,4.5,43.65688,-79.40703,424 College Street,Toronto,+1 647-347-2931
+187,187,Figs and Olives Kitchen,Mediterranean,4.5,43.66484,-79.38607,24 Wellesley Street W,Toronto,+1 416-546-2873
+188,188,Soos,Malaysian,4.0,43.6462593,-79.4197464,94 Ossington Avenue,Toronto,+1 416-901-7667
+189,189,Xola Mexican Food,Mexican,4.0,43.6725435,-79.2881094,2222A Queen Street  E,Toronto,+1 647-827-9070
+190,190,A La Turk,Turkish,4.5,43.73357,-79.40419,3443 Yonge Street,Toronto,+1 416-770-1122
+191,191,El Catrin Destileria,Mexican,3.5,43.65052,-79.35883,18 Tank House Lane,Toronto,+1 416-203-2121
+192,192,Greedy Duck & Noodles,Chinese,4.0,43.657786,-79.402371,316 College Street,Toronto,+1 647-748-0168
+193,193,Uncle Mikey's,Korean,4.5,43.64966,-79.43484,1597 Dundas Street W,Toronto,+1 416-537-8973
+194,194,Kovalsky Restaurant,Polish,4.5,43.6270435,-79.4988143,667 The Queensway,Toronto,+1 416-201-6999
+195,195,Hajime Udon,Japanese,4.5,43.67508,-79.40687,270 Dupont Street,Toronto,+1 416-792-7790
+196,196,Wynona,Italian,4.5,43.66706,-79.34454,819 Gerrard Street E,Toronto,+1 416-778-5171
+197,197,King's Tacos,Mexican,4.0,43.67803,-79.4440599,1190 St Clair Avenue W,Toronto,+1 647-342-0262
+198,198,Dasoni,Korean,4.5,43.68233,-79.42381,630 St Clair Ave W,Toronto,+1 647-343-2878
+199,199,Barque Smokehouse,Barbeque,4.0,43.6480097,-79.4496592,299 Roncesvalles Avenue,Toronto,+1 416-532-7700
+200,200,Positano Restaurant,Pizza,4.5,43.70471,-79.3884,633 Mount Pleasant Road,Toronto,+1 416-932-3982
+201,201,Cactus Club Cafe,Cocktail Bars,4.0,43.6493899,-79.38214,77 Adelaide Street W,Toronto,+1 647-748-2025
+202,202,Ramen Isshin,Ramen,4.5,43.65634,-79.40689,421 College Street,Toronto,+1 416-367-4013
+203,203,School Restaurant,Bakeries,3.5,43.63784,-79.42435,70 Fraser Avenue,Toronto,+1 416-588-0005
+204,204,Edomae Kiyomi,Sushi Bars,4.0,43.66012,-79.37813,76 Gerrard Street E,Toronto,+1 416-979-1134
+205,205,Flor de Sal,Modern European,4.0,43.6775398,-79.4070129,501 Davenport Road,Toronto,+1 416-923-2604
+206,206,Le Sélect Bistro,French,4.0,43.643784032883,-79.39680918669,432 Wellington Street W,Toronto,+1 416-596-6405
+207,207,Brothers,Wine Bars,4.0,43.6709006518955,-79.3900142982602,1240 Bay Street,Toronto,+1 416-804-6066
+208,208,Batifole Restaurant,French,4.0,43.66678,-79.34733,744 Gerrard Street E,Toronto,+1 416-462-9965
+209,209,Stelvio,Italian,4.0,43.65168,-79.40769,791 Dundas Street W,Toronto,
+210,210,Kintako Japanese Restaurant,Japanese,4.0,43.711488,-79.3640926,214 Laird Drive,Toronto,+1 416-800-6074
+211,211,CANO Restaurant,Italian,4.5,43.67871,-79.44058,1108 St Clair Avenue W,Toronto,+1 416-901-3655
+212,212,Lao Thai Restaurant,Thai,4.0,43.6426406,-79.4273649,4 Gladstone Avenue,Toronto,+1 416-855-2028
+213,213,Chadwick's,Canadian (New),4.0,43.673524,-79.4118708,268 Howland Avenue,Toronto,+1 416-944-1606
+214,214,Isaan Der,Thai,4.0,43.6652858,-79.4679385,2961 Dundas Street W,Toronto,+1 416-604-0062
+215,215,George,Canadian (New),4.5,43.65323,-79.37446,111 Queen Street E,Toronto,+1 416-863-6006
+216,216,Mother Tongue,Cocktail Bars,4.0,43.64739,-79.39327,348 Adelaide Street W,Toronto,+1 647-243-5858
+217,217,Athens Restaurant,Greek,4.0,43.6789599,-79.34341,707 Danforth Avenue,Toronto,+1 416-465-4441
+218,218,Koricancha Restaurant,Peruvian,4.5,43.6951899,-79.45153,1885 Eglinton Avenue W,Toronto,+1 647-347-0584
+219,219,Pomegranate Restaurant,Middle Eastern,4.0,43.6569,-79.40694,420 College Street,Toronto,+1 416-921-7557
+220,220,Mayrik,Mediterranean,4.5,43.70568,-79.3754,1580 Bayview Avenue,Toronto,+1 416-483-0922
+221,221,Raku,Japanese,4.0,43.64831,-79.39944,456 Queen St W,Toronto,+1 416-546-9325
+222,222,Shitamachi Tendon Akimitsu,Japanese,3.5,43.65729,-79.38358,41 Elm Street,Toronto,+1 416-519-6794
+223,223,Jules Bistro,French,4.0,43.64808,-79.39556,147 Spadina Avenue,Toronto,+1 416-348-8886
+224,224,BAO,Chinese,3.5,43.6523896094244,-79.398137748683,2-270 Spadina Avenue,Toronto,+1 416-901-7885
+225,225,Local Liberty Village,Sports Bars,4.0,43.6384689262493,-79.4192124903202,171 E Liberty Street,Toronto,+1 416-901-8351
+226,226,Mermaid Fish and Grill House,Seafood,4.5,43.68879,-79.39207,44 St Clair Avenue E,Toronto,+1 416-546-9158
+227,227,Ristorante Marzitelli,Italian,5.0,43.66702,-79.38121,555 Church Street,Toronto,+1 647-784-9656
+228,228,STACK,Barbeque,4.0,43.72929,-79.4029599,3265 Yonge Street,Toronto,+1 647-346-1416
+229,229,7 Numbers Restaurant,Italian,4.0,43.7037199,-79.4137,516 Eglinton Avenue W,Toronto,+1 416-322-5183
+230,230,Aanch Modernistic Indian Cuisine,Indian,4.5,43.64476,-79.39066,259 Wellington St W,Toronto,+1 416-599-0513
+231,231,Kiin,Thai,4.0,43.647622,-79.3921,326 Adelaide Street W,Toronto,+1 647-490-5040
+232,232,Einstein Cafe & Pub,Pubs,3.5,43.65813,-79.39747,229 College Street,Toronto,+1 416-597-8346
+233,233,Grey Gardens,Wine Bars,4.5,43.6537999,-79.40143,199 Augusta Avenue,Toronto,+1 647-351-1552
+234,234,Nove Trattoria,Italian,4.0,43.68674,-79.3937399,1406 Yonge St,Toronto,+1 647-345-5848
+235,235,BlueBlood Steakhouse,Steakhouses,3.5,43.6781099,-79.40948,1 Austin Terrace,Toronto,+1 416-353-4647
+236,236,Pig Out BBQ,Barbeque,4.0,43.66317,-79.40253,650 Spadina Avenue,Toronto,+1 416-792-6120
+237,237,Tacos El Asador,Mexican,4.0,43.6636499,-79.41686,689 Bloor Street W,Toronto,+1 416-538-9747
+238,238,La Banane,French,4.0,43.64904,-79.4203,227 Ossington Avenue,Toronto,+1 416-551-6263
+239,239,Mercado Negro,Tapas/Small Plates,5.0,43.67549850405,-79.4547262134196,1370 Street Clair W,Toronto,+1 647-748-1370
+240,240,Zakkushi,Japanese,4.5,43.64706,-79.40546,620 Queen Street W,Toronto,+1 416-364-5252
+241,241,La Bella Managua,Latin American,4.5,43.66232,-79.42495,872 Bloor Street W,Toronto,+1 416-913-4227
+242,242,Porta Nova Restaurant,Portuguese,4.0,43.6694770940543,-79.4382876902819,211 Geary Avenue,Toronto,+1 416-546-3328
+243,243,COO Café Bread or Rice,Japanese,4.5,43.6604974734537,-79.4319278374314,1049 Bloor Street W,Toronto,+1 647-351-5166
+244,244,Café Polonez,Polish,4.5,43.64514,-79.44831,195 Roncesvalles Avenue,Toronto,+1 416-532-8432
+245,245,Levetto,Italian,4.0,43.64152,-79.4221,68 Sudbury Street,Toronto,+1 647-350-3933
+246,246,Khmer Thai Restaurant,Thai,4.0,43.67937,-79.43781,1018 St Clair Avenue W,Toronto,+1 416-654-0609
+247,247,Cluny Bistro & Boulangerie,French,3.5,43.6505879,-79.3578962,35 Tank House Lane,Toronto,+1 416-203-2632
+248,248,Mengrai Thai,Thai,4.0,43.6541,-79.366917,82 Ontario Street,Toronto,+1 416-840-2754
+249,249,Zakkushi On Carlton,Japanese,4.0,43.66343,-79.37062,193 Carlton Street,Toronto,+1 647-352-9455
+250,250,Koyoi Restaurant & Bar,Japanese,4.0,43.6666786252858,-79.3854676187038,2 Irwin Avenue,Toronto,+1 647-351-5128
+251,251,Trattoria Taverniti,Italian,4.0,43.65511,-79.41348,591 College Street,Toronto,+1 416-537-0078
+252,252,Eastside Social,Seafood,4.0,43.661432,-79.339113,1008 Queen Street E,Toronto,+1 416-461-5663
+253,253,Manpuku Japanese Eatery,Japanese,4.0,43.65406,-79.39101,105 McCaul Street,Toronto,+1 416-979-6763
+254,254,Campechano Taquería,Mexican,4.0,43.64586,-79.40077,504 Adelaide Street W,Toronto,+1 416-777-2800
+255,255,Pow Wow Cafe,Canadian (New),4.5,43.65412,-79.40151,213 Augusta Avenue,Toronto,+1 416-551-7717
+256,256,Kaito Sushi,Sushi Bars,4.0,43.67737,-79.44452,1211 St Clair Ave W,Toronto,+1 416-792-6796
+257,257,Saigon PAI,Thai,4.5,43.663435,-79.367799,446 Parliament Street,Toronto,+1 416-920-8424
+258,258,Lake Inez,Bars,4.5,43.67234,-79.32064,1471 Gerrard Street E,Toronto,+1 416-792-1590
+259,259,Jatujak,Food Delivery Services,4.0,43.7360274,-79.3075152,1744 Victoria Park Avenue,Toronto,+1 647-352-1744
+260,260,The Senator,Breakfast & Brunch,4.0,43.65574,-79.37896,249 Victoria Street,Toronto,+1 416-364-7517
+261,261,The Ace,Comfort Food,4.0,43.64613,-79.44865,231A Roncesvalles Avenue,Toronto,+1 416-792-7729
+262,262,Bar Raval,Spanish,4.0,43.6558432,-79.4099433,505 College Street,Toronto,+1 647-344-8001
+263,263,Flame Food+Design,Canadian (New),4.5,43.6511699407415,-79.4751231579362,2197 Bloor Street W,Toronto,+1 416-762-6000
+264,264,Friday Roots,Soul Food,4.5,43.65138,-79.41134,876 Dundas Street West,Toronto,+1 647-812-3319
+265,265,The Chase,Seafood,3.5,43.651071,-79.379349,10 Temperance Street,Toronto,+1 647-348-7000
+266,266,Kay Pacha,Peruvian,4.0,43.6815,-79.42793,744 St Clair Avenue W,Toronto,+1 416-658-0568
+267,267,BauZza BauZza,Soup,3.5,43.65798,-79.40163,298 College St,Toronto,+1 647-347-8298
+268,268,TORA,Japanese,3.5,43.7244555742087,-79.45526187686,612B-3401 Dufferin Street,Toronto,
+269,269,Fat Pasha,Middle Eastern,4.0,43.67387,-79.41171,414 Dupont Street,Toronto,+1 647-340-6142
+270,270,Bonimi,Cafes,4.5,43.64513,-79.52041,3319 Bloor Street  W,Toronto,+1 416-847-1188
+271,271,Los Guaca-Moles,Mexican,4.0,43.6645463784929,-79.4153123667649,690 Euclid Avenue,Toronto,+1 647-347-5031
+272,272,AMA,Argentine,4.0,43.6450416882219,-79.4161209091544,930 Queen Street W,Toronto,+1 647-349-9262
+273,273,Viajero Cantina,Mexican,4.5,43.65534,-79.45636,1661 Bloor Street West,Toronto,+1 437-771-5681
+274,274,Mezes,Greek,4.0,43.678004,-79.3502135,456 Danforth Avenue,Toronto,+1 416-778-5150
+275,275,Lee Chen Asian Bistro,Dim Sum,4.0,43.6473690555399,-79.3867627903819,214 King Street W,Toronto,+1 416-519-8688
+276,276,Little Piggy's - Authentic Korean BBQ,Korean,3.5,43.6659,-79.406785,469 Bloor St W,Toronto,+1 416-972-1674
+277,277,Edulis,Spanish,4.0,43.64192,-79.4066,169 Niagara Street,Toronto,+1 416-703-4222
+278,278,The Captain's Boil,Cajun/Creole,5.0,43.71582,-79.39989,2655 Yonge St,Toronto,+1 416-485-2655
+279,279,Cherry Street Bar-B-Que,Barbeque,4.0,43.6456,-79.35229,275 Cherry Street,Toronto,+1 416-461-5111
+280,280,Té,Taiwanese,4.0,43.64575,-79.41964,70 Ossington Avenue,Toronto,+1 647-348-8009
+281,281,Campo,Spanish,4.0,43.6551179748791,-79.4869590167577,244 Jane Street,Toronto,+1 647-346-2267
+282,282,La Maquette,Venues & Event Spaces,4.0,43.64981,-79.37383,111 King Street E,Toronto,+1 416-361-9666
+283,283,The Carbon Bar,Barbeque,4.0,43.6531872633836,-79.3747868765724,99 Queen Street E,Toronto,+1 416-947-7000
+284,284,98 Aroma,Chinese,4.0,43.65699,-79.40001,440 Spadina Avenue,Toronto,+1 416-968-9888
+285,285,King Rustic,Comfort Food,4.0,43.6418019534315,-79.4121160358191,905 King Street W,Toronto,+1 416-792-5910
+286,286,Napoli Centrale,Italian,4.5,43.6695182,-79.4129745,964 Bathurst Street,Toronto,+1 416-901-6791
+287,287,Lady Marmalade,Breakfast & Brunch,4.0,43.66319,-79.35134,265 Broadview Avenue,Toronto,+1 647-351-7645
+288,288,Tokyo Hot Fried Chicken,Food Trucks,4.0,43.64568,-79.39257,365 King St W,Toronto,
+289,289,Shoushin,Japanese,4.0,43.73133,-79.40416,3328 Yonge Street,Toronto,+1 416-488-9400
+290,290,East Thirty-Six,Cocktail Bars,4.0,43.6484529,-79.3750706,36 Wellington Street E,Toronto,+1 647-350-3636
+291,291,Descendant Detroit Style Pizza,Pizza,4.5,43.6627782074977,-79.332169532679,1168 Queen Street E,Toronto,+1 647-347-1168
+292,292,Terrazza,Italian,4.0,43.6590509,-79.4223089,372 Harbord Street,Toronto,+1 647-343-3283
+293,293,Ufficio,Seafood,4.0,43.64956,-79.4231,1214 Dundas Street W,Toronto,+1 416-535-8888
+294,294,Cinco Mexican Restaurant,Mexican,4.5,43.643092,-79.447663,131 Roncesvalles Ave,Toronto,+1 647-245-8380
+295,295,Le Swan,French,4.0,43.6452699,-79.4149,892 Queen St W,Toronto,+1 416-536-4440
+296,296,Pho Tien Thanh,Vietnamese,4.0,43.6455399,-79.41896,57 Ossington Avenue,Toronto,+1 416-588-6997
+297,297,Gyubee Japanese Grill - Dundas,Japanese,4.5,43.6551427,-79.3857634,157 Dundas St W,Toronto,+1 416-639-1545
+298,298,The Annex Commons,Pizza,4.5,43.66549,-79.40756,296 Brunswick Ave,Toronto,+1 647-277-1179
+299,299,Mamakas Taverna,Greek,4.0,43.64596,-79.41986,80 Ossington Avenue,Toronto,+1 416-519-5996
+300,300,Homemade Ramen,Chinese,4.0,43.65241,-79.39739,263 Spadina Avenue,Toronto,+1 647-352-6068
+301,301,Camel Restaurant,Middle Eastern,5.0,43.67885,-79.34413,675 danforth ave,Toronto,+1 416-778-8999
+302,302,Portici,Italian,4.0,43.6726242,-79.3885437,6 Scollard Street,Toronto,+1 647-351-2235
+303,303,Auberge du Pommier,French,4.0,43.7468226,-79.4077734,4150 Yonge Street,Toronto,+1 416-222-2220
+304,304,Barberian's Steak House,Steakhouses,4.0,43.6576,-79.38212,7 Elm Street,Toronto,+1 416-597-0335
+305,305,The Cheesecake Factory,Desserts,3.0,43.7265830523283,-79.453484677124,3401 Dufferin Street,North York,+1 416-781-4477
+306,306,Dee,Thai,4.0,43.70108,-79.39681,2013 Yonge Street,Toronto,+1 647-454-4629
+307,307,La Palma,Italian,3.5,43.6512699,-79.41009,849 Dundas Street W,Toronto,+1 416-368-4567
+308,308,Chop Chop,Chinese,4.0,43.6519395,-79.40702,771 Dundas Street W,Toronto,+1 416-842-8277
+309,309,Little Sister,Indonesian,3.5,43.7015676,-79.3970751,2031 Yonge Street,Toronto,+1 416-488-2031
+310,310,Rodney's Oyster House,Seafood,4.0,43.644948,-79.396846,469 King Street W,Toronto,+1 416-363-8105
+311,311,Oyster Boy,Seafood,4.0,43.6452243474777,-79.4143338791601,872 Queen Street W,Toronto,+1 416-534-3432
+312,312,Ooshee Mediterranean Oven,Lebanese,5.0,43.66848,-79.38678,9 Charles Street W,Toronto,
+313,313,Sakai Bar,Japanese,5.0,43.6499784722163,-79.4344709068537,1576 Dundas Street West,Toronto,
+314,314,Gyukatsu Kyoto Katsugyu,Japanese,3.5,43.65687,-79.37616,134 Dundas Street E,Toronto,+1 416-203-8778
+315,315,Bloom Restaurant,Latin American,4.0,43.65017,-79.47968,2315 Bloor Street W,Toronto,+1 416-767-1315
+316,316,Hair of the Dog,Pubs,4.0,43.662946823805,-79.379592870241,425 Church Street,Toronto,+1 416-964-2708
+317,317,Beerbistro,Bistros,4.0,43.64945,-79.377159,18 King Street E,Toronto,+1 416-861-9872
+318,318,Il Covo,Italian,4.0,43.655165915912,-79.4133123010397,585 College Street,Toronto,+1 416-530-7585
+319,319,Olio,Mediterranean,4.0,43.6870734407118,-79.5868089089997,801 Dixon Road,Toronto,+1 416-213-7504
+320,320,BuaBua Thai,Thai,4.5,43.707555,-79.3756631,1677 Bayview Avenue,Toronto,+1 416-322-8828
+321,321,Constantine,Mediterranean,3.5,43.66858,-79.38537,15 Charles Street E,Toronto,+1 647-475-4436
+322,322,Shunoko,Sushi Bars,4.0,43.67741,-79.4442399,1201 St Clair W,Toronto,+1 647-748-7288
+323,323,Aviv Immigrant Kitchen,Mediterranean,4.5,43.68078,-79.42912,779 St. Clair Avenue W,Toronto,+1 416-922-2433
+324,324,Vicino Italian Kitchen,Italian,4.5,43.6590461,-79.3600043,146 Sumach St,Toronto,
+325,325,LOUIX LOUIS,Cocktail Bars,3.5,43.64987,-79.3803,325 Bay Street,Toronto,+1 416-637-5550
+326,326,El Sazón Mexicano,Mexican,4.0,43.6770608350774,-79.4477873673694,1284 St Clair Avenue W,Toronto,+64 7-344 0119
+327,327,Katsuya,Japanese,4.5,43.7899221078355,-79.4184596229012,6048 Yonge Street,Toronto,+1 647-729-6161
+328,328,Smith Bros.,Steakhouses,4.0,43.7288866354086,-79.2882227897644,880 Warden Avenue,Toronto,+1 416-751-3100
+329,329,Long Time No See,Barbeque,3.0,43.65318,-79.39524,421 Dundas Street W,Toronto,+1 416-848-8887
+330,330,Daddyo's Pasta & Salads,Italian,4.0,43.6645899,-79.40234,673 Spadina Avenue,Toronto,+1 416-598-5522
+331,331,Hong Kong Bistro Cafe,Chinese,4.0,43.65348,-79.39686,472 Dundas Street W,Toronto,+1 416-598-9188
+332,332,Union Social Eatery,American (Traditional),4.0,43.687794516424,-79.3950692564249,21 Saint Clair Avenue W,Toronto,+1 416-901-3456
+333,333,Annette Food Market,Italian,4.0,43.6625426477784,-79.471127986908,240 Annette Street,Toronto,+1 416-519-4103
+334,334,Naanspot- Modern Indian Cuisine,Indian,4.5,43.65776,-79.4022,310 College Street,Toronto,+1 647-343-6226
+335,335,Luna Junction,Portuguese,4.5,43.6656,-79.46276,2800 Dundas St W,Toronto,+1 416-762-4116
+336,336,JaBistro,Japanese,4.0,43.64989,-79.38821,222 Richmond Street West,Toronto,+1 647-748-0222
+337,337,La Cubana,Cuban,4.0,43.6462083,-79.419674,92 Ossington Avenue,Toronto,+1 416-537-0134
+338,338,Sidebar,Pizza,4.0,43.67627,-79.35676,161 Danforth Avenue,Toronto,+1 647-350-7227
+339,339,Lamesa Filipino Kitchen,Filipino,4.0,43.682297,-79.423948,634 St Clair Avenue W,Toronto,+1 647-343-1110
+340,340,32 Chicken St.,Korean,4.5,43.6564,-79.40651,409 College Street,Toronto,+1 647-748-0032
+341,341,EAT BKK Thai Kitchen,Thai,4.0,43.75926,-79.4105455,4704 Yonge Street,Toronto,+1 647-352-8989
+342,342,Zezafoun Syrian Cuisine,Syrian,4.5,43.70267,-79.39712,4 Manor Road E,Toronto,+1 416-322-7707
+343,343,Southern Accent Restaurant,Southern,4.0,43.65416,-79.42289,839 College Street,Toronto,+1 416-901-3211
+344,344,Forget Me Not Cafe,Vietnamese,4.0,43.7304611,-79.4665298,883 Wilson Avenue,Toronto,+1 647-627-0883
+345,345,Wvrst,German,4.0,43.64418555054,-79.401014855291,609 King Street W,Toronto,+1 416-703-7775
+346,346,Momo Hut & Gardens,Himalayan/Nepalese,4.5,43.6773492,-79.3513541,401 Danforth Avenue,Toronto,+1 416-363-8580
+347,347,The Hole In the Wall,Pubs,4.5,43.66518,-79.46515,2867 Dundas Street W,Toronto,+1 647-350-3564
+348,348,The Golden Pheasant,Modern European,4.5,43.57077,-79.56565,733 Lakeshore Road E,Mississauga,+1 905-781-9374
+349,349,Kaiseki Yu-zen Hashimoto,Japanese,4.5,43.72596,-79.33403,6 Garamond Court,Toronto,+1 416-444-7100
+350,350,The Grand Hotel & Suites,Hotels,4.0,43.65646,-79.37376,225 Jarvis St,Toronto,+1 416-863-9000
+351,351,Raza Cerveceria Brewing,Brewpubs,5.0,43.650983,-79.450606,403 Roncesvalles Avenue,Toronto,+1 647-568-9378
+352,352,Greta Solomon's,French,4.5,43.66232,-79.33535,1118 Queen Street E,Toronto,+1 647-347-8640
+353,353,Madrina Bar y Tapas,Tapas Bars,4.0,43.65044,-79.35992,2 Trinity Street,Toronto,+1 416-548-8055
+354,354,Centrale Bergham,Burgers,4.5,43.64808,-79.4004,482 Queen Street W,Toronto,+1 416-901-9095
+355,355,Saigon Lotus,Vietnamese,4.5,43.65449,-79.39928,6 St Andrew Street,Toronto,+1 416-901-1115
+356,356,Chick-fil-A,Fast Food,4.0,43.66954,-79.3861,709 Yonge St,Toronto,+1 416-475-6002
+357,357,Hot Pot Restaurant,Caribbean,4.5,43.6974669682301,-79.4413521140814,1545 Eglinton Avenue  W,Toronto,+1 416-460-5183
+358,358,La Carnita,Mexican,3.5,43.656012010874,-79.4096839427948,501 College Street,Toronto,+1 416-964-1555
+359,359,Hacienda las Américas,Mexican,4.5,43.65688,-79.40703,424 College Street,Toronto,+1 647-347-2931
+360,360,Herby Restaurant,Persian/Iranian,4.5,43.6774,-79.35147,397 Danforth Ave,Toronto,
+361,361,VOS Restaurante Argentino,Argentine,4.5,43.6541131320243,-79.4230899587274,847 College Street,Toronto,+1 416-530-0847
+362,362,SugarKane,Caribbean,4.5,43.67892,-79.34361,699 Danforth Avenue,Toronto,+1 416-469-0808
+363,363,La Palette,French,4.0,43.64797,-79.40098,492 Queen Street W,Toronto,+1 416-929-4900
+364,364,Soba Canada,Japanese,4.0,43.6713,-79.38382,120 Bloor Street E,Toronto,+1 416-436-7997
+365,365,Xola Mexican Food,Mexican,4.0,43.6725435,-79.2881094,2222A Queen Street  E,Toronto,+1 647-827-9070
+366,366,Shatter Abbas,Persian/Iranian,4.5,43.6397334104565,-79.3826601676435,218 Queens Quay W,Toronto,+1 416-551-8010
+367,367,The Jester On Yonge,Pubs,2.5,43.6877,-79.39346,1427 Yonge Street,Toronto,+1 416-323-3421
+368,368,Dark Horse,Pubs,2.5,43.64941,-79.48302,2401 Bloor St W,Toronto,+1 416-769-4696
+369,369,Artisan Plus,Noodles,4.0,43.65578,-79.38444,122 Dundas St W,Toronto,+1 416-599-3189
+370,370,El Catrin Destileria,Mexican,3.5,43.65052,-79.35883,18 Tank House Lane,Toronto,+1 416-203-2121
+371,371,Estiatorio VOLOS,Seafood,4.0,43.65016,-79.38477,133 Richmond St W,Toronto,+1 416-861-1211
+372,372,Union,French,4.0,43.64577,-79.41974,72A Ossington Avenue,Toronto,+1 416-850-0093
+373,373,MARBL Restaurant,American (Traditional),3.5,43.64499,-79.39598,455 King Street West,Toronto,+1 416-979-2660
+374,374,St Lawrence Market,Farmers Market,4.5,43.6487301,-79.3715409,93-95 Front Street E,Toronto,+1 416-392-7219
+375,375,Phat Kaphrao,Thai,4.0,43.7179405382064,-79.4297083094716,3016B Bathurst Street,Toronto,+1 416-789-4085
+376,376,Burdock,Bars,3.5,43.6594874003951,-79.4378667938658,1184 Bloor Street W,Toronto,+1 416-546-4033
+377,377,Avant Gout Restaurant,French,4.0,43.67864,-79.39045,1108 Yonge Street,Toronto,+1 416-916-3681
+378,378,Terroni,Italian,3.5,43.6507999,-79.3756,57A Adelaide Street E,Toronto,+1 416-203-3093
+379,379,12 Tables,Mediterranean,4.0,43.7233723514959,-79.4162779227216,1552 Avenue Road,Toronto,+1 416-590-7819
+380,380,Tonkin Vietnamese,Vietnamese,4.5,43.69688,-79.45123,2404 Dufferin Street,Toronto,+1 416-784-1491
+381,381,10tation Event Catering,Caterers,4.5,43.63224,-79.52947,232 Norseman Street,Toronto,+1 416-243-5144
+382,382,The Cherie  Bistro,Italian,4.0,43.66512,-79.3808763,538 Church Street,Toronto,+1 416-968-1010
+383,383,Quetzal,Mexican,4.0,43.656524297994,-79.4069881075464,419 College Street,Toronto,+1 647-347-3663
+384,384,Mezu,Korean,4.5,43.64938,-79.42787,1375 Dundas Street W,Toronto,+1 647-346-8858
+385,385,Borrel,Desserts,3.5,43.682065845688,-79.3290362994545,1333 Danforth Avenue,Toronto,+1 647-349-5722
+386,386,Jamie's Italian,Italian,3.0,43.7266461512688,-79.4530578107046,3401 Dufferin Street,Toronto,+1 416-238-7450
+387,387,King's Tacos,Mexican,4.0,43.67803,-79.4440599,1190 St Clair Avenue W,Toronto,+1 647-342-0262
+388,388,Dasoni,Korean,4.5,43.68233,-79.42381,630 St Clair Ave W,Toronto,+1 647-343-2878
+389,389,Lucy Ethiopian Kitchen,Ethiopian,4.5,43.6841128,-79.3207142,1690 Danforth Avenue,Toronto,+1 416-406-0534
+390,390,Tabülè Middle Eastern Cuisine,Middle Eastern,4.0,43.659652,-79.346481,810 Queen Street  E,Toronto,+1 416-465-2500
+391,391,Hibachi Teppanyaki & Bar,Japanese,3.5,43.6431385252454,-79.4020506514614,550 Wellington Street W,Toronto,+1 416-367-3888
+392,392,Woodlot Restaurant,Vegetarian,4.0,43.65578,-79.40988,293 Palmerston Avenue,Toronto,+1 647-342-6307
+393,393,Jules Bistro,French,4.0,43.64502,-79.41592,924 Queen Street W,Toronto,+1 416-533-5454
+394,394,The Irv Gastro Pub,Burgers,4.5,43.6635399,-79.3705826,195 Carlton Street,Toronto,+1 647-350-4787
+395,395,Canis,Canadian (New),4.5,43.6460933596731,-79.4101145473278,746 Queen Street W,Toronto,+1 416-203-3317
+396,396,Hancook Cheese Dakgalbi,Korean,4.0,43.66457,-79.41304,605 Bloor Street W,Toronto,+1 416-516-1222
+397,397,Chine Legendary Hot Pot & Noodles,Chinese,4.0,43.6545068365465,-79.3984092772007,327 Spadina Avenue,Toronto,+1 416-979-1776
+398,398,The Bagel House,Bagels,4.0,43.70483,-79.37496,1548 Bayview Avenue,Toronto,+1 416-481-8184
+399,399,School Restaurant,Bakeries,3.5,43.63784,-79.42435,70 Fraser Avenue,Toronto,+1 416-588-0005
+400,400,Fudao noodle house,Chinese,4.0,43.65461,-79.39905,358 Spadina ave,Toronto,+1 647-346-8588
+401,401,Hogtown Smoke,Barbeque,4.0,43.64909,-79.37433,55 Colborne Street,Toronto,+1 416-691-9009
+402,402,Favorites,Salad,4.0,43.6473606954857,-79.4201145725201,141 Ossington Avenue,Toronto,
+403,403,The Local,Bars,3.5,43.6510309,-79.4510022,396 Roncesvalles Avenue,Toronto,+1 416-535-6225
+404,404,Rosedale Diner,Diners,3.5,43.68036,-79.3912299,1164 Yonge Street,Toronto,+1 416-923-3122
+405,405,Lao Thai Restaurant,Thai,4.0,43.6426406,-79.4273649,4 Gladstone Avenue,Toronto,+1 416-855-2028
+406,406,EAT BKK Queen West,Thai,4.0,43.64743,-79.40376,580 Queen Street W,Toronto,+1 416-862-8424
+407,407,Daan Go Cafe,Cafes,4.0,43.80929,-79.2903,3380 Midland Avenue,Toronto,+1 647-245-2112
+408,408,Isaan Der,Thai,4.0,43.6652858,-79.4679385,2961 Dundas Street W,Toronto,+1 416-604-0062
+409,409,The Commoner,Gastropubs,4.0,43.65191,-79.44797,2067 Dundas Street W,Toronto,+1 647-351-2067
+410,410,The Federal,Breakfast & Brunch,4.0,43.6497699,-79.43011,1438 Dundas Street W,Toronto,+1 647-352-9120
+411,411,Ascari Enoteca,Italian,4.0,43.6619301,-79.3353424,1111 Queen Street E,Toronto,+1 416-792-4157
+412,412,MEXITACO,Mexican,4.0,43.70862,-79.29554,1109 Victoria Park Avenue,Toronto,+1 647-349-6603
+413,413,Fuwa Fuwa Japanese Pancakes,Desserts,4.0,43.6659512785201,-79.4078764691949,408 Bloor Street W,Toronto,+1 647-618-2868
+414,414,Koricancha Restaurant,Peruvian,4.5,43.6951899,-79.45153,1885 Eglinton Avenue W,Toronto,+1 647-347-0584
+415,415,Pomegranate Restaurant,Middle Eastern,4.0,43.6569,-79.40694,420 College Street,Toronto,+1 416-921-7557
+416,416,Speducci Mercatto,Meat Shops,4.5,43.7048492,-79.4728165,46 Milford Avenue,Toronto,+1 416-242-2777
+417,417,Rikkochez,Mediterranean,4.5,43.67711,-79.35317,341 Danforth Avenue,Toronto,+1 416-463-9000
+418,418,Great Canadian Diner,Canadian (New),5.0,43.65539,-79.41418,598 College St,Toronto,+1 416-616-2028
+419,419,Bacan,Argentine,4.0,43.6501,-79.4502,369 Roncesvalles Avenue,Toronto,+1 416-535-2222
+420,420,Sala Modern Thai Kitchen & Bar,Thai,4.5,43.6819991223223,-79.3307374790311,1262 Danforth Avenue,Toronto,+1 416-405-9999
+421,421,Seor Ak San,Korean,4.0,43.65557,-79.3986,357 Spadina Avenue,Toronto,+1 416-977-2788
+422,422,Pray Tell,Cocktail Bars,4.0,43.65452,-79.42307,838 College Street,Toronto,+1 647-340-7729
+423,423,Ascari King,Wine Bars,4.0,43.6445600941281,-79.4008001312613,620 King Street W,Toronto,+1 416-366-3673
+424,424,Cellar Door,Italian,4.0,43.6000214,-79.5076675,3003 Lake Shore Boulevard W,Toronto,+1 416-253-0303
+425,425,Wow Sushi,Sushi Bars,4.0,43.6685157490107,-79.3868207931519,11 Charles Street,Toronto,+1 416-923-1888
+426,426,Filmores Hotel,Hotels,3.0,43.65773,-79.37337,212 Dundas St E,Toronto,+1 416-921-2191
+427,427,Hotel Victoria,Hotels,4.0,43.64813,-79.37778,56 Yonge St,Toronto,+1 416-363-1666
+428,428,Mermaid Fish and Grill House,Seafood,4.5,43.68879,-79.39207,44 St Clair Avenue E,Toronto,+1 416-546-9158
+429,429,Nami Restaurant,Japanese,3.5,43.650977509378,-79.3754126895,55 Adelaide Street E,Toronto,+1 416-362-7373
+430,430,Buk Chang Dong Soon Tofu,Korean,4.0,43.66363,-79.4169299,691 Bloor Street W,Toronto,+1 416-537-0972
+431,431,Tacos El Asador,Mexican,4.0,43.6636499,-79.41686,689 Bloor Street W,Toronto,+1 416-538-9747
+432,432,Hanyang Jokbal,Korean,3.5,43.7889534902826,-79.4183142855763,6016 Yonge Street,Toronto,
+433,433,Isabella's Boutique Restaurant,Japanese,4.5,43.670795,-79.297255,2066 Queen St East,Toronto,+1 416-699-5050
+434,434,Bistro Five61,Canadian (New),5.0,43.6878395,-79.401329,561 Avenue Road,Toronto,+1 416-923-2233
+435,435,Chiang Mai,Thai,4.0,43.62459,-79.48498,84 Park Lawn Rd,Toronto,+1 647-748-8424
+436,436,Lee Chen Asian Bistro,Dim Sum,3.5,43.672372,-79.387436,813 Yonge Street,Toronto,+1 416-901-8869
+437,437,Oretta,Italian,3.5,43.64392,-79.40163,633 King Street W,Toronto,+1 416-944-1932
+438,438,Eggspectation,Breakfast & Brunch,4.0,43.6532721,-79.3812455,483 Bay Street,Toronto,+1 416-979-3447
+439,439,A La Carte Kitchen,Caterers,5.0,43.70659,-79.35144,2 Thorncliffe Park Drive,Toronto,+1 416-971-4068
+440,440,Khmer Thai Restaurant,Thai,4.0,43.67937,-79.43781,1018 St Clair Avenue W,Toronto,+1 416-654-0609
+441,441,Cluny Bistro & Boulangerie,French,3.5,43.6505879,-79.3578962,35 Tank House Lane,Toronto,+1 416-203-2632
+442,442,Playa Cabana - Hacienda,Mexican,3.0,43.6770684,-79.3981842,14 Dupont Street,Toronto,+1 647-352-6030
+443,443,Nomads Restobar,Gastropubs,4.5,43.6586977012275,-79.3501439318061,701 Queen Street E,Toronto,+1 416-551-1553
+444,444,Maha's,Egyptian,4.0,43.67167,-79.32853,226 Greenwood Avenue,Toronto,+1 416-462-2703
+445,445,Hokkaido Ramen Santouka,Ramen,4.0,43.656321731393,-79.377499580039,91 Dundas Street E,Toronto,+1 647-748-1717
+446,446,Zeal Burgers,Burgers,5.0,43.7003564125732,-79.5175241744238,1926 Weston Road,Toronto,+1 647-352-3933
+447,447,Takht-e Tavoos,Persian/Iranian,4.5,43.6524676,-79.4329894,1120 College Street,Toronto,+1 647-352-7322
+448,448,Mai Bistro,Asian Fusion,4.5,43.6490027,-79.5285543,4906 Dundas W,Toronto,+1 647-343-3130
+449,449,Galleria Supermarket,International Grocery,4.0,43.6645899,-79.38475,558 Yonge Street,Toronto,+1 647-925-4200
+450,450,Doo Roo Ae,Korean,3.5,43.6639519,-79.4155197,659 Bloor Street  West,Toronto,+1 647-350-8133
+451,451,Evoo Ristorante,Wine Bars,4.0,43.67441,-79.39672,138 Avenue Road,Toronto,+1 647-560-0381
+452,452,King Solomon and Queen of Sheba,Ethiopian,4.5,43.6558058248416,-79.3639365211129,360 Queen Street E,Toronto,+1 416-368-9002
+453,453,Chotto Matte Toronto,Japanese,3.5,43.6464326899705,-79.37869593187,161 Bay Street,Toronto,+1 416-988-8097
+454,454,The Good Son,Pizza,4.0,43.6436501,-79.4227676,1096 Queen Street W,Toronto,+1 416-551-0589
+455,455,Aztec's Mine,Mexican,4.0,43.65302,-79.4684988,1986 Bloor Street W,Toronto,+1 647-347-1977
+456,456,Bonafide,Cocktail Bars,4.5,43.6541320531879,-79.4015169516206,209 Augusta Avenue,Toronto,+1 647-352-1899
+457,457,Pizzeria Libretto,Pizza,4.0,43.64898,-79.42021,221 Ossington Avenue,Toronto,+1 416-532-8000
+458,458,Como En Casa,Mexican,4.0,43.6653391464388,-79.3844996650524,565 Yonge Street,Toronto,+1 647-748-6666
+459,459,Drake One Fifty,Cocktail Bars,3.5,43.6493542,-79.3846843,150 York Street,Toronto,+1 416-363-6150
+460,460,Ardo Restaurant,Italian,4.0,43.65103,-79.36839,243 King Street E,Toronto,+1 647-347-8930
+461,461,Bar Reyna,Mediterranean,3.5,43.6700299,-79.39335,158 Cumberland Street,Toronto,+1 647-748-4464
+462,462,Wood House BBQ,Chinese,3.5,43.75793,-79.4105,4664 Yonge Street,Toronto,+1 416-590-1315
+463,463,Mr.Tonkatsu,Japanese,4.0,43.66541,-79.41074,520 Bloor Street W,Toronto,+1 416-537-9000
+464,464,The SOS,Canadian (New),4.0,43.6486292012999,-79.3907604320194,118 John Street,Toronto,
+465,465,Stamps Lane,Seafood,4.0,43.6501499,-79.45026,371 Roncesvalles Avenue,Toronto,+1 416-537-7750
+466,466,Naan & Kabob,Afghan,4.0,43.66905,-79.38606,691 Yonge Street,Toronto,+1 416-972-6623
+467,467,Beach Hill Smokehouse,Barbeque,4.5,43.68409,-79.3005,172 Main Street S,Toronto,+1 416-792-8275
+468,468,Yummy Yummy Dumplings,Chinese,4.0,43.6537999,-79.39598,79 Huron Street,Toronto,+1 647-859-8998
+469,469,Patois Toronto,Chinese,3.5,43.65202,-79.40816,794 Dundas Street W,Toronto,+1 647-350-8999
+470,470,Alobar Yorkville,Bars,4.0,43.6699967,-79.3936512,57A-162 Cumberland Street,Toronto,+1 416-961-1222
+471,471,Cabano's Comfort Food,Comfort Food,4.5,43.66767,-79.38642,75 Saint Nicholas Street,Toronto,
+472,472,Yan Yu,Chinese,4.0,43.7713029,-79.3316635,237 Consumers Road,Toronto,+1 416-753-8838
+473,473,Reverie at The Park,Cocktail Bars,4.5,43.65515,-79.41274,569 College Street,Toronto,+1 416-533-8841
+474,474,Frankie's,Breakfast & Brunch,4.0,43.6445099,-79.41842,994 Queen Street W,Toronto,+1 416-588-1936
+475,475,Founder,Cocktail Bars,4.5,43.6496799,-79.42543,1282 Dundas St. W,Toronto,+1 647-348-1282
+476,476,La Carnita,Mexican,3.5,43.6475853662168,-79.3903893378564,106 John Street,Toronto,+1 647-348-1166
+477,477,Sushi Avenue,Japanese,5.0,43.67481,-79.3969,150 Avenue Road,Toronto,+1 416-972-1888
+478,478,PROJECT:FISH,Sushi Bars,4.0,43.7691830865363,-79.414129704237,16 Park Home Avenue,North York,+1 416-792-5250
+479,479,The Keg Steakhouse + Bar,Steakhouses,4.0,43.64964,-79.38402,165 York Street,Toronto,+1 416-703-1773
+480,480,Faim de Loup,French,5.0,43.65374,-79.42659,940 College Street,Toronto,+1 416-901-3246
+481,481,Tasty's Caribbean Restaurant,Caribbean,4.5,43.6567777,-79.3992574,405 Spadina Avenue,Toronto,+1 416-916-7888
+482,482,Xawaash,Middle Eastern,4.0,43.71548,-79.5931,130 Queens Plate Drive,Toronto,+1 416-747-7222
+483,483,Sansotei Ramen,Ramen,4.0,43.655,-79.38643,179 Dundas Street W,Toronto,+1 647-748-3833
+484,484,Athletes Kitchen,Food Delivery Services,5.0,43.6381851,-79.4177652,171 E Liberty Street,Toronto,+1 416-516-0101
+485,485,Simone's Caribbean Restaurant,Caribbean,4.5,43.67884,-79.34654,596 Danforth Avenue,Toronto,+1 416-792-5252
+486,486,Torch Pressed Sushi,Japanese,4.5,43.6659093206019,-79.3808230385184,507 Church St,Toronto,+1 416-929-0678
+487,487,Pastiche,Cocktail Bars,5.0,43.64555,-79.4191,59 Ossington Ave,Toronto,+1 647-508-5959
+488,488,My Roti Place,Indian,5.0,43.73146,-79.40411,3334 Yonge Street,Toronto,+1 416-489-7684
+489,489,Chiado,Seafood,4.0,43.654186841827,-79.424246886555,864 College Street,Toronto,+1 416-538-1910
+490,490,APRES,Wine Bars,4.5,43.6430235327158,-79.4253501362197,1166 Queen Street W,Toronto,+1 647-292-3317
+491,491,Shi Miaodao Yunnan Rice Noodle,Noodles,4.0,43.6536,-79.39869,318 Spadina Avenue,Toronto,+1 416-792-8628
+492,492,Flavours Of Sheba,Ethiopian,4.5,43.67703,-79.44849,1310 St Clair Avenue W,Toronto,+1 416-792-1449
+493,493,Suliko Restaurant,Russian,4.0,43.7859117,-79.4828488,1311 Alness Street,Concord,+1 905-760-1989
+494,494,The Annex Food Hall,Food Court,3.5,43.6662561448828,-79.4065094072386,384 Bloor Street W,Toronto,
+495,495,Café Boulud,Cafes,3.5,43.6719213,-79.388922,60 Yorkville Avenue,Toronto,+1 416-963-6000
+496,496,Thindi,Indian,5.0,43.65734,-79.38093,335 Yonge Street,Toronto,+1 416-931-6016
+497,497,Montgomery's Restaurant,Canadian (New),4.5,43.6444199,-79.41844,996 Queen Street W,Toronto,+1 647-748-4416
+498,498,Terroni,Italian,3.0,43.6800112830789,-79.3905191478574,1095 Yonge Street,Toronto,+1 416-925-4020
+499,499,Victor,American (Traditional),4.0,43.645905,-79.391166,30 Mercer St,Toronto,+1 416-883-3431
+500,500,The Ritz-Carlton Toronto,Hotels,4.0,43.6453482728907,-79.3869441747665,181 Wellington Street W,Toronto,+1 416-585-2500
+501,501,After Dark,Asian Fusion,5.0,43.64569,-79.4104,859 Queen St W,Toronto,+1 416-317-8829
+502,502,Akira Back,Japanese,4.0,43.64541,-79.3923,80 Blue Jays Way,Toronto,+1 437-800-5967
+503,503,Epicure City BOM,Korean,4.0,43.65854,-79.3852,72 Gerrard Street W,Toronto,+1 416-971-5882
+504,504,Lucia,Italian,3.5,43.66494,-79.45418,1595 Dupont Street,Toronto,+1 416-901-4533
+505,505,Home Smith Bar,Bars,4.0,43.650908910338,-79.492893476634,21 Old Mill Road,Toronto,+1 416-236-2641
+506,506,Soco Kitchen and Bar,Bars,3.5,43.6426531322953,-79.3838465349876,75 Lower Simcoe Street,Toronto,+1 416-637-5465
+507,507,Chamsine,Middle Eastern,5.0,43.6544,-79.36919,235 Queen Street E,Toronto,
+508,508,Insadong,Korean,4.5,43.6480451,-79.5291757,4941 Dundas Street W,Toronto,+1 416-746-0777
+509,509,Rasta Pasta,Caribbean,4.0,43.6542328627147,-79.4004420356637,61 Kensington Avenue,Toronto,+1 647-501-4505
+510,510,Chica's Nashville Hot Chicken,Chicken Shop,4.5,43.66518,-79.46423,2853 Dundas Street W,Toronto,+1 647-343-6562
+511,511,Matha Roti - East Indian Cuisine,Indian,4.5,43.66209,-79.40613,141 Harbord Street,Toronto,+1 416-966-6955
+512,512,Mi Taco Taqueria,Mexican,4.0,43.65026,-79.38865,247 Queen Street W,Toronto,+1 647-352-8226
+513,513,Capocaccia Trattoria,Pizza,3.5,43.6858784,-79.393189,1366 Yonge Street,Toronto,+1 416-921-3141
+514,514,Scaddabush Italian Kitchen & Bar,Wine Bars,3.5,43.659095,-79.382915,382 Yonge Street,Toronto,+1 416-597-8838
+515,515,Spicy Incredibowl,Chinese,4.0,43.65701,-79.39931,415 Spadina Ave,Toronto,
+516,516,Nakamori,Japanese,4.0,43.73692,-79.24466,2803 Eglinton Avenue E,Toronto,+1 416-265-7111
+517,517,Pujukan Authentic Korean BBQ,Korean,3.5,43.76262,-79.41152,4852 Yonge Street,Toronto,+1 416-840-0589
+518,518,The Anndore House,Hotels,4.5,43.66858,-79.38537,15 Charles Street E,Toronto,+1 833-745-8370
+519,519,Nana,Thai,3.5,43.6462178971393,-79.4080042323735,785 Queen Street W,Toronto,+1 647-352-5745
+520,520,Sassafraz,French,3.5,43.6702957,-79.3910686,100 Cumberland Street,Toronto,+1 416-964-2222
+521,521,The Dime,Bars,3.5,43.6476526616345,-79.4026391208172,538 Queen Street West,Toronto,+1 647-348-9080
+522,522,MamaDon,Japanese,4.5,43.66484,-79.41336,606 Bloor Street W,Toronto,
+523,523,Emma's Country Kitchen,Breakfast & Brunch,4.0,43.68103,-79.4303599,810 Saint Clair Avenue W,Toronto,+1 416-652-3662
+524,524,Dönerland,Halal,4.5,43.6457334350956,-79.4486947578932,217 Roncesvalles Avenue,Toronto,+1 416-546-8066
+525,525,Ricarda's,Mediterranean,4.0,43.6484621,-79.3936807,134 Peter Street,Toronto,+1 416-304-9134
+526,526,Little Bourbon House,Cajun/Creole,4.5,43.71842,-79.25071,3655 St Clair Avenue E,Toronto,+1 416-536-1806
+527,527,Yeon,Korean,5.0,43.64838,-79.39734,465 Queen Street W,Toronto,
+528,528,Local 1794,Canadian (New),4.0,43.68459,-79.31881,1794 Danforth Avenue,Toronto,+1 416-463-1794
+529,529,El Venezolano,Venezuelan,4.5,43.6798013667387,-79.3411719426513,818 Danforth Ave,Toronto,+1 647-703-4107
+530,530,Fusaro's,Italian,4.0,43.65341,-79.36956,294 Richmond Street E,Toronto,+1 647-347-3309
+531,531,Banh Mi Boys,Vietnamese,4.5,43.64884,-79.39695,392 Queen Street W,Toronto,+1 416-363-0588
+532,532,Skippa,Japanese,4.0,43.6587414936163,-79.422841559936,379 Harbord Street,Toronto,+1 416-535-8181
+533,533,Four Seasons Toronto,Hotels,4.5,43.6718235014363,-79.3897868908398,60 Yorkville Avenue,Toronto,+1 416-964-0411
+534,534,Tachi,Sushi Bars,4.5,43.6502911,-79.3839517,Assembly Chef's Hall,Toronto,
+535,535,Uncle Tony's,Italian,4.0,43.6486015,-79.3749695,38 Wellington Street E,Toronto,+1 416-868-9564
+536,536,Himalayan Kitchen,Indian,4.5,43.6403,-79.43889,1526 Queen Street W,Toronto,+1 416-536-4138
+537,537,Meat Point,Turkish,4.5,43.72768,-79.47869,1021 Wilson Ave,Toronto,+1 416-638-6721
+538,538,Plan B,South African,4.5,43.64801,-79.50749,2943A Bloor Street W,Toronto,+1 416-231-4444
+539,539,Sakawa Coffee & Japanese Restaurant,Japanese,4.5,43.67971,-79.33964,867 Danforth Ave,Toronto,
+540,540,Barans Turkish Cuisine & Bar,Turkish,4.0,43.7292880867379,-79.2807260155678,2043 Eglinton Avenue E,Toronto,+1 416-750-4545
+541,541,St Clair Banh Cuon Pho Ga,Vietnamese,4.0,43.67416,-79.46132,1772 Saint Clair Avenue W,Toronto,+1 416-651-3771
+542,542,Barrio Coreano,Korean,3.5,43.6645245,-79.4150668,642 Bloor Street W,Toronto,+1 416-901-5188
+543,543,The Queen And Beaver Public House,Pubs,4.0,43.65734,-79.38334,35 Elm Street,Toronto,+1 647-347-2712
+544,544,The Rustic Social House,Cocktail Bars,4.0,43.6300462551408,-79.4765980559753,2083 Lake Shore Blvd W,Toronto,+1 416-251-5100
+545,545,Niuda Hand-Pulled Noodles,Chinese,4.0,43.65061,-79.38908,204 Queen St W,Toronto,+1 416-599-6666
+546,546,Shangrila Tibetan & Asian Cuisine,Himalayan/Nepalese,4.0,43.6397400555351,-79.4415438622399,1600 Queen Street W,Toronto,+1 416-588-1100
+547,547,Yukashi Japanese Cuisine,Japanese,4.5,43.7049499,-79.3884999,643A Mount Pleasant Road,Toronto,+1 416-489-6993
+548,548,La Sala Restaurant,Italian,4.0,43.6697445896967,-79.3006072193384,1975a Queen Street E,Toronto,+1 416-694-0004
+549,549,Budapest Restaurant,Hungarian,5.0,43.69676,-79.44651,1708 Eglinton Avenue W,Toronto,+1 416-551-5881
+550,550,Harmoney Chinese Restaurant,Chinese,4.0,43.65341,-79.39699,478 Dundas Street W,Toronto,+1 416-729-9788
+551,551,The House On Parliament,British,4.0,43.66359,-79.36794,454 Parliament Street,Toronto,+1 416-925-4074
+552,552,The Keg Steakhouse + Bar - Mansion,Steakhouses,4.0,43.66683,-79.37788,515 Jarvis Street,Toronto,+1 416-964-6609
+553,553,Harbour 60,Steakhouses,4.0,43.642105,-79.378455,60 Harbour Street,Toronto,+1 416-777-2111
+554,554,Nest,Dance Clubs,3.0,43.6564373,-79.4071046,423 College Street,Toronto,+1 416-792-9488
+555,555,White Brick Kitchen,Breakfast & Brunch,4.0,43.6641761663864,-79.414961199638,641 Bloor Street W,Toronto,+1 647-347-9188
+556,556,Sheherzade Persian Grill And Dizi,Persian/Iranian,4.0,43.65689,-79.40698,422 College St W,Toronto,+1 416-929-9222
+557,557,Prohibition Gastrohouse - Queen,Bars,3.5,43.65894,-79.35041,696 Queen Street E,Toronto,+1 416-406-2669
+558,558,Egg Bae,Breakfast & Brunch,4.0,43.653418218123,-79.4014396490667,189 Augusta Avenue,Toronto,
+559,559,The Drake Underground,Lounges,4.0,43.64328,-79.42459,1150 Queen St W,Toronto,+1 416-531-5042
+560,560,Konjiki Ramen Downtown,Ramen,4.0,43.65729,-79.38358,41 Elm Street,Toronto,+1 416-519-6794
+561,561,Rickshaw Bar,Tapas/Small Plates,4.0,43.64678,-79.4049299,685 Queen Street W,Toronto,+1 647-352-1227
+562,562,Carmen,Spanish,4.0,43.6448801059488,-79.4158409535885,922 Queen Street W,Toronto,+1 416-535-0404
+563,563,Zen Sanuki Udon,Japanese,3.5,43.81547,-79.29343,3720 Midland Ave,Toronto,+1 416-881-8899
+564,564,Dumpling House Restaurant,Chinese,3.5,43.65378,-79.3987,328 Spadina Avenue,Toronto,+1 416-596-8898
+565,565,Imanishi Japanese Kitchen,Japanese,4.0,43.64969,-79.42657,1330 Dundas Street W,Toronto,+1 416-706-4225
+566,566,Sofia,Italian,3.0,43.67076,-79.39183,99 Yorkville Ave,Toronto,+1 416-479-8974
+567,567,La Cubana,Cuban,3.5,43.65087,-79.45106,392 Roncesvalles Avenue,Toronto,+1 416-538-7500
+568,568,Kit Kat Italian Bar & Grill,Italian,4.0,43.64634,-79.3901,297 King Street W,Toronto,+1 416-977-4461
+569,569,DUNK Burgers and Chocolate,Burgers,4.5,43.64651,-79.40821,696 Queen Street W,Toronto,+1 289-521-3865
+570,570,Rio 40 Restaurant,Brazilian,4.0,43.67747,-79.44643,1256 Saint Clair Avenue West,Toronto,+1 416-654-6363
+571,571,Grand Cru Deli,Wine Bars,4.5,43.64907,-79.39168,304 Richmond St W,Toronto,+1 416-551-9221
+572,572,Mapo Gamjatang,Korean,4.0,43.7641849235097,-79.4120768085122,4916 Yonge St,Toronto,+1 416-225-4343
+573,573,Decó,Wine Bars,4.5,43.6655233977892,-79.4639609081577,2840 Dundas Street W,Toronto,+1 416-761-0005
+574,574,Country Style Hungarian Restaurant,Hungarian,3.5,43.66579,-79.409,450 Bloor Street W,Toronto,+1 416-536-5966
+575,575,Hyatt Regency Toronto,Hotels,3.5,43.6464799,-79.39171,370 King Street West,Toronto,+1 416-343-1234
+576,576,Selam Vegan,Ethiopian,5.0,43.6627952,-79.4227388,812B Bloor Street W,Toronto,+1 647-344-7225
+577,577,Bach Yen,Thai,4.0,43.66684,-79.34756,738 Gerrard Street E,Toronto,+1 647-347-8160
+578,578,Grand Electric,Bars,3.5,43.6416745,-79.4316079,1330 Queen Street W,Toronto,+1 416-627-3459
+579,579,Efes Kebab House,Kebab,4.5,43.680413,-79.3384151,940 Danforth Avenue,Toronto,+1 647-340-3337
+580,580,Communist's Daughter,Bars,4.0,43.6492099,-79.42103,1149 Dundas Street W,Toronto,+1 647-435-0103
+581,581,Maracas,Caribbean,4.5,43.6534230140427,-79.4015572642975,181 Augusta Ave,Toronto,+1 416-260-0000
+582,582,Kellys Landing,Sports Bars,3.5,43.6448899,-79.38305,123 Front Street W,Toronto,+1 647-776-1133
+583,583,Cactus Club Cafe,Cocktail Bars,4.0,43.6129439367706,-79.5599403108673,25 The West Mall,Toronto,+1 416-621-0203
+584,584,Holy Cow Steakhouse,Steakhouses,3.5,43.6498576594063,-79.3913725018501,254 Queen Street  W,Toronto,+1 416-792-8269
+585,585,Sukho Thai,Thai,3.5,43.6485607,-79.3745641,52 Wellington Street E,Toronto,+1 647-351-4612
+586,586,By Chloe,Burgers,3.5,43.725462,-79.451437,3401 Dufferin Street,Toronto,+1 416-789-3261
+587,587,The Bartending School of Ontario,Bartending Schools,5.0,43.68589,-79.31078,2159 Danforth Avenue,Toronto,+1 416-466-7847
+588,588,STK Toronto,Steakhouses,3.0,43.6703376703389,-79.3942644296936,153 Yorkville Ave,Toronto,+1 416-613-9660
+589,589,Goa Kitchen,Indian,4.0,43.768352,-79.386449,2901 Bayview Avenue,Toronto,+1 647-352-1661
+590,590,Bistro Camino,French,4.5,43.68934,-79.29744,2750 Danforth Avenue,Toronto,+1 416-698-0283
+591,591,Good Hombres,Mexican,4.5,43.65326,-79.40675,374 Bathurst Street,Toronto,+1 416-862-0425
+592,592,El Tenedor,Spanish,5.0,43.67512,-79.38837,909 Yonge St,Toronto,+1 416-923-8888
+593,593,Corks,Tapas/Small Plates,4.0,43.64234,-79.38083,15 York Street,Toronto,+1 416-366-1717
+594,594,Darbar Persian Grill,Persian/Iranian,3.5,43.7355,-79.419651,2015 Avenue Road,Toronto,+1 416-519-4545
+595,595,Akai Sushi,Japanese,4.0,43.66259,-79.40505,168 Major Street,Toronto,+1 647-340-3558
+596,596,North Of Brooklyn,Pizza,4.5,43.66928,-79.43913,229 Geary Avenue,Toronto,+1 647-929-9500
+597,597,Chopsticks+Forks,Food Tours,5.0,43.6487,-79.38545,"Toronto, ON",Toronto,+1 888-683-6778
+598,598,ZIBA Berlin Döner,Kebab,4.0,43.66651,-79.31692,1608 Queen Street E,Toronto,+1 416-466-2422
+599,599,Skyline Restaurant,Bars,4.0,43.64109,-79.4351499,1426 Queen Street W,Toronto,+1 416-536-3682
+600,600,Anestis Taverna,Greek,4.0,43.67843,-79.34821,526 Danforth Avenue,Toronto,+1 416-461-1996
+601,601,The Manna,Korean,4.5,43.6638499,-79.41828,726 Bloor Street,Toronto,+1 416-534-5441
+602,602,Bagnet Bros,Filipino,4.0,43.7292,-79.43229,3522 Bathurst St,Toronto,+1 416-256-9555
+603,603,Three Brothers Restaurant,Mediterranean,4.5,43.6270902973831,-79.4986541569233,657 The Queensway,Etobicoke,+1 416-253-8809
+604,604,Quanto Basta,Italian,3.5,43.67874,-79.39051,1112 Yonge Street,Toronto,+1 416-962-3141
+605,605,Lucky Shrike,Dive Bars,4.5,43.65171,-79.41034,850 Dundas Street,Toronto,+1 416-815-7777
+606,606,Katsuya,Japanese,4.0,43.787399,-79.2670943,4447 Sheppard Ave E,Toronto,+1 416-293-4449
+607,607,RYUS Noodle Bar,Ramen,4.0,43.6771,-79.35905,786 Broadview Avenue,Toronto,+1 647-344-9306
+608,608,Casa Di Giorgios,Italian,4.0,43.6668499,-79.31518,1646 Queen St E,Toronto,+1 416-686-7066
+609,609,The Wren,Bars,4.0,43.6824096,-79.3280496,1382 Danforth Avenue,Toronto,+1 647-748-1382
+610,610,Buono,Italian,4.0,43.64925,-79.39545,354 Queen Street W,Toronto,+1 416-205-1001
+611,611,Baro,Cocktail Bars,3.5,43.644906,-79.39694,485 King Street W,Toronto,+1 416-363-8388
+612,612,The Old Spaghetti Factory,Italian,3.0,43.6469106,-79.3743409,54 The Esplanade,Toronto,+1 416-864-9761
+613,613,Mexico Lindo,Mexican,4.0,43.706473,-79.3756,1618 Bayview Ave,Toronto,+1 647-436-4340
+614,614,Bannock,Canadian (New),3.5,43.65177,-79.3810699,401 Bay Street,Toronto,+1 416-861-6996
+615,615,Comal y Canela,Mexican,5.0,43.70326,-79.50419,1692B Jane Street,North York,+1 647-689-4694
+616,616,La Cubana,Cuban,4.0,43.66904,-79.33715,1030 Gerrard St E,Toronto,+1 647-350-5355
+617,617,TORCH Pressed Sushi,Japanese,4.0,43.7894818475359,-79.4181949272752,6026 Yonge St,Toronto,+1 416-733-8338
+618,618,Beijing Hot Pot Restaurant,Hot Pot,4.0,43.7739998,-79.3411815,107 Parkway Forest Drive,Toronto,+1 647-342-2028
+619,619,Masaki Saito,Japanese,3.5,43.67224,-79.39586,88 Avenue Road,Toronto,+1 416-924-0888
+620,620,Salumi Bar,Tapas/Small Plates,5.0,43.65513,-79.41356,593 College Street,Toronto,+1 416-533-0162
+621,621,Bang Bang Ice Cream and Bakery,Desserts,4.0,43.6462863,-79.4194744,93a Ossington Avenue,Toronto,+1 647-348-1900
+622,622,Michael's on Simcoe,Steakhouses,4.0,43.6481895,-79.3867188,100 Simcoe Street,Toronto,+1 416-260-5100
+623,623,Mabu Generation,Taiwanese,4.5,43.6650956222266,-79.3848299235106,575 Yonge Street,Toronto,+1 416-901-8183
+624,624,Brasil Stone Grill,Brazilian,5.0,43.6933719,-79.4613295,2184 Eglinton Ave W,Toronto,+1 647-345-0222
+625,625,Prague Restaurant,Czech,3.5,43.7543409,-79.2160007,450 Scarborough Golf Club Road,Toronto,+1 416-289-0283
+626,626,Rol San,Dim Sum,3.0,43.6543527996563,-79.3983133882284,323 Spadina Avenue,Toronto,+1 416-977-1128
+627,627,Barista & Chef,Mediterranean,4.5,43.6794533,-79.4374528,1006 Saint Clair Avenue W,Toronto,+1 647-344-1216
+628,628,Farm'r Eatery & Catering,Canadian (New),4.5,43.64856,-79.37026,140 The Esplanade,Toronto,+1 416-901-8676
+629,629,Pizzeria Libretto,Pizza,4.0,43.64432,-79.39874,545 King Street W,Toronto,+1 647-352-1200
+630,630,Sorrel,Mediterranean,3.5,43.6802406,-79.3911819,1158 Yonge Street,Toronto,+1 416-926-1010
+631,631,Zee Grill Seafood Restaurant & Oyster Bar,Seafood,4.0,43.70491,-79.38851,641 Mount Pleasant Road,Toronto,+1 416-484-6428
+632,632,European Hotel & Restaurant Imports,Wholesale Stores,5.0,43.66727,-79.41231,880 Bathurst Street,Toronto,+1 416-253-9449
+633,633,Hotmess Tex Mex,Tex-Mex,4.0,43.65491,-79.4145999,615 College Street W,Toronto,+1 416-551-1322
+634,634,Boardwalk Place,Pubs,2.5,43.6630096,-79.3108978,1675 Lake Shore Boulevard E,Toronto,+1 416-694-8844
+635,635,Otto's Berlin Döner,German,4.0,43.6563397,-79.4029066,256 Augusta Avenue,Toronto,+1 647-347-7713
+636,636,El Pocho Antojitos Bar,Bars,4.5,43.66963,-79.41338,2 Follis Avenue,Toronto,+1 647-794-7115
+637,637,Chef Gourmet,Turkish,5.0,43.66531,-79.38099,542 Church Street,Toronto,+1 647-341-2433
+638,638,Makkal Chon,Korean,4.0,43.7447,-79.29678,1979 Lawrence Avenue E,Toronto,+1 416-757-3945
+639,639,Good Taste Casserole Rice,Cantonese,5.0,43.81506,-79.3218,325 Bamburgh Cir,Toronto,+1 416-546-3388
+640,640,Ilhas De Bruma,Seafood,3.5,43.652334,-79.433657,1136 College Street W,Toronto,+1 416-538-2015
+641,641,Bangarang,Bars,4.5,43.65589,-79.41199,552 College Street,Toronto,
+642,642,Kub Khao Thai Eatery,Thai,4.0,43.7802225147531,-79.2998219175943,3561 Sheppard E,Toronto,+1 416-297-8888
+643,643,The Green Wood,Breakfast & Brunch,4.0,43.66487,-79.32425,1402 Queen Street E,Toronto,+1 416-778-4343
+644,644,Palace Restaurant,Greek,4.5,43.67983,-79.34545,722 Pape Avenue,Toronto,+1 416-462-1166
+645,645,Pasta Pronta,Italian,4.0,43.6563212885996,-79.388174302876,525 University Avenue,Toronto,+1 647-748-3635
+646,646,Playa Cabana Cantina,Mexican,3.5,43.66522,-79.46552,2883 Dundas Street W,Toronto,+1 647-352-7767
+647,647,Karahi Boys,Pakistani,4.0,43.74385,-79.29975,1921 Lawrence Avenue E,Toronto,+1 416-901-8727
+648,648,Kekou Gelato,Ice Cream & Frozen Yogurt,4.5,43.64879,-79.39702,394 Queen Street W,Toronto,+1 416-516-0637
+649,649,Goods & Provisions,Bars,4.0,43.66233,-79.33515,1124 Queen Street E,Toronto,+1 647-340-1738
+650,650,TAO Northern Chinese Cuisine,Chinese,3.5,43.7125483505075,-79.3645555214343,220 Laird Drive,Toronto,+1 416-421-3888
+651,651,Sud Forno,Bakeries,3.5,43.650916340102,-79.3787852302194,132 Yonge Street,Toronto,+1 416-955-1100
+652,652,Nomé Izakaya - Shops at Don Mills,Sushi Bars,4.0,43.73356,-79.3447599,4 O'Neill Road,Toronto,+1 647-973-7937
+653,653,Momofuku Noodle Bar,Ramen,3.0,43.649678,-79.386275,190 University Avenue,Toronto,+1 647-253-6225
+654,654,The Goose & Firkin,Pubs,3.5,43.756145169209,-79.360160543425,1875 Leslie Street,North York,+1 416-383-1200
+655,714,The Real Jerk,Caribbean,3.5,43.66781,-79.34327,842 Gerrard Street E,Toronto,+1 416-463-6055
+656,655,Scaddabush Italian Kitchen & Bar,Italian,3.5,43.6449,-79.38549,200 Front Street W.,Toronto,+1 416-979-3665
+657,656,The Beech Tree,Wine Bars,4.0,43.6803871,-79.2888628,924 Kingston Road,Toronto,+1 416-699-4444
+658,657,The Monkey Bar,Canadian (New),4.0,43.73149,-79.40346,3353 Yonge Street,Toronto,+1 416-486-2288
+659,658,Tabule Restaurant,Middle Eastern,4.0,43.700983,-79.396863,2009 Yonge Street,Toronto,+1 416-483-3747
+660,659,PHO OK,Vietnamese,4.5,43.75793,-79.4105,4664 Yonge Street,Toronto,+1 416-222-2668
+661,660,Tenoch Restaurant,Mexican,3.5,43.67944,-79.43508,933 Saint Clair Avenue W,Toronto,+1 647-345-0165
+662,661,Liuyishou Hotpot Downtown Toronto,Hot Pot,4.0,43.65169,-79.39796,254 Spadina Avenue,Toronto,+1 416-777-1682
+663,662,Pho Linh,Vietnamese,4.0,43.65241,-79.43411,1156 College Street W,Toronto,+1 416-516-3891
+664,663,EAT BKK Thai Kitchen Leslieville,Thai,4.0,43.6605957,-79.3429889,898 Queen Street E,Toronto,+1 416-466-4644
+665,664,La Carnita,Mexican,3.5,43.6596718,-79.3473892,780 Queen Street E,Toronto,+1 647-344-0780
+666,665,Konjiki Ramen,Ramen,4.0,43.76719,-79.41198,5051 Yonge Street,Toronto,+1 647-350-7766
+667,666,SoSo Food Club,Chinese,3.5,43.64951,-79.42162,1166 Dundas Street W,Toronto,+1 416-519-6661
+668,667,Marcello’s pizzeria,Pizza,4.0,43.67783,-79.4425399,1163 Saint Clair Avenue W,Toronto,+1 416-656-6159
+669,668,Dakgogi,Korean,3.0,43.66489,-79.38314,25 Wellesley Street E,Toronto,+1 647-350-1999
+670,669,Francobollo Posto Italino,Italian,4.0,43.734442,-79.419466,1959 Avenue Road,Toronto,+1 416-481-3888
+671,670,Tsujiri,Desserts,4.0,43.7642856511625,-79.4115551188588,4909 Yonge Street,Toronto,+1 647-341-6622
+672,671,The Ellery,Breakfast & Brunch,4.5,43.68494,-79.31719,1870 Danforth Avenue,Toronto,+1 416-422-1870
+673,672,The Shore Club - Toronto,Seafood,4.0,43.6456057670746,-79.3865740299225,155 Wellington Street W,Toronto,+1 416-351-3311
+674,673,Garleek Kitchen,Asian Fusion,4.5,43.64046,-79.43811,1500 Queen Street W,Toronto,+1 416-551-0929
+675,674,The Emmet Ray,Jazz & Blues,4.0,43.65393,-79.42571,924 College Street,Toronto,+1 416-792-4497
+676,675,Ramen Isshin,Ramen,4.5,43.64731,-79.40233,609 Queen Street W,Toronto,+1 647-368-4013
+677,676,Barnsteiner's,Modern European,3.5,43.68554,-79.3933799,1 Balmoral Avenue,Toronto,+1 416-515-0551
+678,677,Hidden Burger,Burgers,4.0,43.6465208,-79.3778797,22 Front Street W,Toronto,+1 416-362-7585
+679,678,Lai Wah Heen,Dim Sum,3.5,43.6546713,-79.386172,108 Chestnut Street,Toronto,+1 416-977-9899
+680,679,Taqueria Gus,Mexican,4.5,43.65437,-79.40161,225 Augusta Avenue,Toronto,
+681,680,Rudy,Burgers,4.0,43.65489,-79.41474,619 College Street,Toronto,+1 647-748-7839
+682,681,The Captain's Boil,Seafood,3.5,43.66237,-79.38378,476 Yonge St,Toronto,+1 647-748-2886
+683,682,Taste of Toronto,Festivals,3.5,43.638832,-79.4003064,250 Fort York Boulevard,Toronto,+1 647-478-9909
+684,683,Snow Time,Desserts,4.0,43.8062607389319,-79.2892820565678,3290 Midland Avenue,Toronto,+1 647-560-6417
+685,684,Mapo Korean BBQ,Barbeque,3.5,43.66411,-79.41674,680 Bloor St W，Toronto,Toronto,+1 647-797-7708
+686,685,Kiyo,Japanese,4.5,43.680565,-79.4175732,1384 Bathurst Street,Toronto,+1 416-519-0234
+687,686,Dimmi Bar & Trattoria,Italian,3.5,43.67017,-79.3927,140 Cumberland St,Toronto,+1 416-975-1100
+688,687,One2 Snacks,Malaysian,4.5,43.7871904907403,-79.2766229063272,8 Glen Watford Drive,Toronto,+1 647-340-7099
+689,688,RH Toronto Courtyard Café,Breakfast & Brunch,4.0,43.7248736,-79.4555364,3401 Dufferin Street,Toronto,+1 416-322-9422
+690,689,Selam Restaurant & Lounge,Ethiopian,4.0,43.66279,-79.42269,812 Bloor Street W,Toronto,+1 416-915-7225
+691,690,Trius + Aim,Bistros,4.5,43.5986881016945,-79.5442225411534,270 Brown's Line,Toronto,+1 647-351-2700
+692,691,Thai Country Kitchen,Thai,4.0,43.6561499,-79.39968,412 Spadina Ave,Toronto,+1 416-977-5999
+693,692,Chez Nous,Wine Bars,4.5,43.65969,-79.34685,798 Queen Street E,Toronto,+1 416-781-4743
+694,693,The Captain's Boil,Seafood,4.0,43.6156501,-79.5587629,1800 The Queensway,Toronto,+1 416-792-1880
+695,694,Old School,Breakfast & Brunch,3.5,43.6519218754076,-79.4083632901311,800 Dundas Street W,Toronto,+1 416-815-8790
+696,695,Donatello Restaurant,Italian,4.0,43.657425,-79.383474,37 Elm Street,Toronto,+1 416-595-5001
+697,696,Maiz,Latin American,4.0,43.7287691310403,-79.4035453721881,3220 Yonge Street,Toronto,+1 647-341-8555
+698,697,Lageez,Indian,4.5,43.7108417,-79.2913192,641 Pharmacy Avenue,Toronto,+1 416-285-7999
+699,698,MaMa Chef Korean Restaurant,Korean,4.0,43.66444,-79.41534,648 Bloor Street W,Toronto,+1 416-516-8383
+700,699,Amsterdam Barrel House,Breweries,3.5,43.70618,-79.36112,87 Laird Drive,Toronto,+1 416-504-1060
+701,700,Marron Bistro,Steakhouses,4.5,43.7005399,-79.4286599,948 Eglinton Avenue W,Toronto,+1 416-784-0128
+702,701,E11even,Seafood,3.5,43.642801069778,-79.381241442969,15 York Street,Toronto,+1 416-815-1111
+703,702,Aviator Danforth,American (Traditional),3.5,43.683,-79.32628,1458 Danforth Ave,Toronto,+1 647-348-2680
+704,703,Scollard Variety & Deli,Diners,4.5,43.6716977,-79.3921869,105 Scollard Street,Toronto,+1 416-964-9326
+705,704,You Don Ya,Japanese,3.5,43.6557137988527,-79.3841209246949,108 Dundas St W,Toronto,+1 647-748-9399
+706,705,Oh My Lard,Caterers,5.0,43.6487,-79.38545,"Toronto, ON",Toronto,+1 416-871-4886
+707,706,Paul's Spaghetti,Italian,4.0,43.6931,-79.33362,488 Cosburn Avenue,Toronto,+1 416-422-4362
+708,707,Arthur's Restaurant,Canadian (New),3.0,43.68842,-79.39351,12 St Clair Ave E,Toronto,+1 647-348-7000
+709,708,Chula Taberna Mexicana,Mexican,4.0,43.6692562,-79.3359022,1058 Gerrard Street E,Toronto,+1 416-901-9859
+710,709,The Four Seven,Tapas/Small Plates,4.5,43.65876,-79.43993,1211 Bloor Street  W,Toronto,+1 647-348-4500
+711,710,Pizzeria Libretto Danforth,Pizza,4.0,43.6785799,-79.34754,550 Danforth Avenue,Toronto,+1 416-466-0400
+712,711,Que Ling Restaurant,Vietnamese,4.0,43.6658199,-79.34941,248 Boulton Avenue,Toronto,+1 416-778-4038
+713,712,Kibo Sushi House,Sushi Bars,4.5,43.6571797376337,-79.4476240147407,1415 Bloor Street W,Toronto,+1 416-536-0469
+714,713,Khau Gully,Indian,4.0,43.70055,-79.39673,1991 Yonge Street,Toronto,
+715,715,Leela Indian Food Bar,Indian,4.0,43.6656864338278,-79.4737639278173,3108 Dundas Street W,Toronto,+1 416-769-7777
+716,716,Salto Restaurant,Italian,4.5,43.6749099,-79.43089,1138 Davenport Road,Toronto,+1 416-653-3077
+717,717,House of Gourmet,Chinese,3.5,43.65336,-79.39718,484 Dundas St W,Toronto,+1 416-217-0167
+718,718,Queens Legs,Pubs,4.0,43.70498,-79.40763,286 Eglinton Avenue W,Toronto,+1 416-481-3555
+719,719,Residence Inn Toronto Downtown/Entertainment District,Hotels,4.0,43.644767,-79.390728,255 Wellington Street West,Toronto,+1 416-581-1800
+720,720,Smith,Breakfast & Brunch,3.5,43.6669924,-79.3813287,553 Church Street,Toronto,+1 416-926-2501
+721,721,Cool Runnings Restaurant,Caribbean,4.0,43.6834386,-79.299971,146 Main Street,Toronto,+1 416-693-8724
+722,722,Kid Lee,Asian Fusion,4.0,43.6487084956596,-79.3814887516685,100 King Street W,Toronto,+1 647-352-0092
+723,723,Chris Jerk Caribbean Bistro,Caribbean,4.5,43.789649473453,-79.3024008755197,2570 Birchmount Road,Toronto,+1 416-297-5375
+724,724,Noce Restaurant,Italian,4.0,43.64552,-79.41132,875 Queen Street W,Toronto,+1 416-504-3463
+725,725,Samovar Room,Lounges,1.5,43.66576,-79.36826,51A Winchester St,Toronto,+1 416-925-4555
+726,726,Bocconcini Toronto,Pizza,4.5,43.6603,-79.37748,96 Gerrard Street E,Toronto,+1 416-977-1836
+727,727,Morgan's On the Danforth,Gastropubs,4.0,43.68194,-79.3302284,1282 Danforth Avenue,Toronto,+1 416-461-3020
+728,728,Wonton Kitchen,Dim Sum,4.0,43.66564,-79.3867,29 B St Joseph Street,Toronto,+1 416-964-9999
+729,729,Utsav,Food Delivery Services,4.0,43.67094,-79.39086,69 Yorkville Ave,Toronto,+1 416-961-8349
+730,730,DeSotos Eatery,Gastropubs,4.0,43.6786263,-79.4396588,1079 St Clair Avenue West,Toronto,+1 416-651-2109
+731,731,Royal Ontario Museum,Museums,4.0,43.6682441250201,-79.3947601318359,100 Queen's Park,Toronto,+1 416-586-8000
+732,732,The Parlour,Pizza,4.0,43.6444882,-79.4015886,642 King St W,Toronto,+1 416-869-3322
+733,733,Trattoria Mercatto,Italian,3.5,43.65367,-79.38007,220 Yonge Street,Toronto,+1 647-352-3390
+734,734,Adega Restaurante,Portuguese,4.0,43.65732,-79.38323,33 Elm St,Toronto,+1 416-977-4338
+735,735,Chat Bar,Chinese,4.0,43.77299,-79.41414,5312 Yonge Street,Toronto,+1 647-508-5588
+736,736,Esto Es Colombia,Colombian,5.0,43.7066287111662,-79.4533072320145,2848 Dufferin Street,Toronto,
+737,737,Oakwood Hardware Food & Drink,Gastropubs,4.0,43.6862185521566,-79.4381985948438,337 Oakwood Avenue,Toronto,+1 416-658-9898
+738,738,Fresh On Bloor,Vegan,3.5,43.666863,-79.4035738,326 Bloor Street W,Toronto,+1 416-599-4442
+739,739,La Vecchia Ristorante,Italian,3.5,43.7103565,-79.3989339,2405A Yonge Street,Toronto,+1 416-489-0630
+740,740,Nando's Flame Grilled Chicken,Portuguese,3.5,43.6617048,-79.3862897,832 Bay St.,Toronto,+1 416-925-8888
+741,741,Good Cheese,Cheese Shops,5.0,43.66596,-79.35136,614 Gerrard Street E,Toronto,+1 416-285-8482
+742,742,Ding Tai Fung,Chinese,3.5,43.796407,-79.270493,175 Commander Boulevard,Toronto,+1 416-291-0123
+743,743,Bar Fancy,Chicken Shop,4.0,43.64382,-79.42143,1070 Queen Street W,Toronto,+1 416-546-1416
+744,744,Cluck Clucks,Chicken Shop,4.0,43.6497687124273,-79.3660896960711,222 The Esplanade,Toronto,+1 647-748-2582
+745,745,Maido Japanese Restaurant,Japanese,4.0,43.6664314,-79.405632,364 Bloor Street W,Toronto,+1 416-961-7702
+746,746,The Tilted Dog Pub & Kitchen,Sandwiches,4.5,43.66283,-79.3675404,424 Parliament Street,Toronto,+1 416-961-9425
+747,747,The Olde Yorke,Seafood,4.5,43.70619,-79.36218,96 Laird Drive,East York,+1 416-696-9670
+748,748,Mustafa Turkish Pizza,Turkish,4.0,43.73057,-79.46799,866 Wilson Avenue,Toronto,+1 416-631-0300
+749,749,Manjya Hire a Personal Chef,Personal Chefs,5.0,43.65131,-79.37457,"Toronto, ON M5C 1K9",Toronto,+1 800-993-4613
+750,750,M'Zaar Restaurant,Lebanese,4.0,43.6672475,-79.3855441,668 Yonge Street,Toronto,+1 647-350-0666
+751,751,Miss Things,Cocktail Bars,3.5,43.6414601,-79.431879,1279 Queen Street W,Toronto,+1 416-516-8677
+752,752,Henrietta Lane Cafe & Drinkery,Cafes,4.5,43.65406,-79.36122,394 King Street E,Toronto,
+753,753,Pizzeria Via Mercanti,Pizza,4.0,43.65408,-79.402,188 Augusta Avenue,Toronto,+1 647-343-6647
+754,754,Pie Bar,Pizza,3.0,43.6382664027863,-79.3804673190485,207 Queens Quay W,Toronto,+1 647-341-7221
+755,755,Souk Tabule,Middle Eastern,4.5,43.6536257459587,-79.354342010958,494 Front Street E,Toronto,+1 416-583-5914
+756,756,k.Dinners,Seafood,5.0,43.67765,-79.35008,463 Danforth Avenue,Toronto,+1 647-236-4423
+757,757,Tea N Bannock,American (Traditional),4.5,43.671182,-79.3273557,1294 Gerrard Street E,Toronto,+1 416-220-2915
+758,758,El Trompo Taco Bar,Mexican,4.0,43.65591,-79.40227,277 Augusta Ave,Toronto,+1 416-260-0097
+759,759,Nodo Leslieville,Italian,4.0,43.66311,-79.33162,1192 Queen Street East,Toronto,+1 416-792-4196
+760,760,GarfieldEATS,Pizza,1.5,43.66085,-79.42994,995 Bloor Street W,Toronto,+1 800-522-0328
+761,761,Estia,Mediterranean,3.5,43.67237,-79.39586,90 Avenue Road,Toronto,+1 416-367-4141
+762,762,Japango,Sushi Bars,3.5,43.6551,-79.38524,122 Elizabeth Street,Toronto,+1 416-599-5557
+763,763,Sapori,Wine Bars,5.0,43.65008,-79.43469,1588 Dundas W,Toronto,+1 647-388-9667
+764,764,Dumpling King,Chinese,4.0,43.7680416,-79.4760726,1126 Finch Avenue W,Toronto,+1 647-627-7778
+765,765,Marriott Downtown at CF Toronto Eaton Centre,Hotels,4.0,43.654728444284,-79.3824216350913,525 Bay Street,Toronto,+1 416-597-9200
+766,766,Upper Deck Bar,Cocktail Bars,3.5,43.6236766256497,-79.3813701906625,Toronto Island Marina,Centre Island,+1 416-203-1055
+767,767,Dragon Pearl Buffet,Buffets,3.5,43.755169,-79.349892,865 York Mills Road,Toronto,+1 647-352-2288
+768,768,Sang-Ji Fried Bao,Noodles,4.0,43.77652,-79.41417,1 Byng Avenue,North York,+1 647-346-9199
+769,769,Churrasqueira Martins,Portuguese,3.5,43.680855,-79.473492,605 Rogers Road,Toronto,+1 416-657-4343
+770,770,Crown Princess Fine Dining,Dim Sum,3.5,43.66615,-79.38737,1033 Bay Street,Toronto,+1 416-923-8784
+771,771,Copacabana Brazilian Steak House,Brazilian,3.5,43.7079,-79.39396,150 Eglinton Avenue E,Toronto,+1 888-432-6721
+772,772,Pizzeria Moretti,Italian,3.5,43.64478,-79.39232,328 Wellington Street W,Toronto,+1 416-901-3099
+773,773,Vietnoms,Vietnamese,4.0,43.764615,-79.3962269,243 Sheppard Avenue E,Toronto,+1 647-352-5886
+774,774,Shalom Ethopian Restaurant,Ethiopian,4.5,43.6674999,-79.36904,587 Parliament Street,Toronto,+1 416-964-7271
+775,775,KINKA IZAKAYA NORTH  YORK,Japanese,3.5,43.7603034104018,-79.409797675989,4775 Yonge Street,Toronto,+1 647-346-6246
+776,776,Hello 123,Breakfast & Brunch,3.5,43.6433736,-79.4234717,1122 Queen Street W,Toronto,+1 416-532-3555
+777,777,Some Time BBQ Grill Restaurant & L.L.B.O.,Chinese,4.0,43.65578,-79.39366,41-43 Baldwin Street,Toronto,+1 647-833-7688
+778,778,Kwan,Dim Sum,3.0,43.688893355494,-79.3943411566436,1496 Yonge Street,Toronto,+1 416-901-6618
+779,779,LOV King West,Vegan,4.0,43.64456,-79.40074,620 King West street,Toronto,+1 416-366-8568
+780,780,Mill Street Beer Hall,Gastropubs,3.0,43.6504424511321,-79.3584427521102,21 Tank House Lane,Toronto,+1 416-681-0338
+781,781,Pukka,Indian,4.0,43.681191,-79.429274,778 St. Clair Avenue W,Toronto,+1 416-342-1906
+782,782,Loose Moose,Sports Bars,3.5,43.64522,-79.38385,146 Front Street West,Toronto,+1 416-977-8840
+783,783,The Shozan Room,Japanese,4.5,43.64791,-79.4205,164 Ossington Ave,Toronto,
+784,784,AKA-ONI Izakaya,Japanese,4.0,43.8219855640577,-79.298919766399,633 Silver Star Boulevard,Toronto,+1 416-298-3828
+785,785,Lapinou,French,4.0,43.6444,-79.40155,642 King Street W,Toronto,+1 416-479-4414
+786,786,Jz's Pizza,Pizza,4.0,43.6452767607007,-79.3897039038027,232 Wellington Street W,Toronto,+1 647-347-2727
+787,787,Foxley Bistro and Bar,Asian Fusion,4.0,43.64865,-79.42024,207 Ossington Avenue,Toronto,+1 416-534-8520
+788,788,Sansotei Ramen,Ramen,4.5,43.63905,-79.3982599,115 Fort York Boulevard,Toronto,+1 647-343-8878
+789,789,Pokéwave,Poke,4.5,43.6635,-79.38417,514 Yonge Street,Toronto,
+790,790,Bukhara Grill,Indian,4.0,43.6508421,-79.477041,2241A Bloor Street W,Toronto,+1 416-551-5199
+791,791,Goose Island,Breweries,3.5,43.6472859,-79.3735769,70 The Esplanade,Toronto,+1 416-862-7575
+792,792,Four Four South VIllage,Taiwanese,3.5,43.66232,-79.38376,474 Yonge Street,Toronto,+1 416-413-9802
+793,793,On The Stick,Sushi Bars,3.5,43.688694,-79.391897,48 St Clair Avenue E,Toronto,+1 416-960-4896
+794,794,Kōst,Mexican,3.5,43.64541,-79.3923,80 Blue Jays Way,Toronto,+1 437-800-5938
+795,795,Morton's The Steakhouse,Steakhouses,4.0,43.6697130529198,-79.3949747085571,4 Avenue Road,Toronto,+1 416-925-0648
+796,796,Barn Restaurant,Canadian (New),4.0,43.6473299,-79.40456,598 Queen Street W,Toronto,+1 416-504-9874
+797,797,Miss Korea,Korean,3.0,43.669074,-79.385948,687 Yonge Street,Toronto,+1 647-748-9100
+798,798,Papyrus,Egyptian,4.5,43.67709,-79.35324,337 Danforth Avenue,Toronto,+1 647-352-3878
+799,799,LOCAL Leaside,American (Traditional),3.5,43.7099783645764,-79.3635408952832,180 Laird Drive,Toronto,+1 416-696-6226
+800,800,Ozzy's Burgers,Burgers,4.0,43.65527,-79.40261,66 Nassau St,Toronto,+1 416-862-7983
+801,801,Soulas Modern Greek Cuisine,Greek,4.0,43.6782533846538,-79.348819591105,500 A Danforth Avenue,Toronto,+1 416-778-0500
+802,802,Gyu-Kaku Japanese BBQ,Japanese,4.0,43.6515,-79.37482,81 Church Street,Toronto,+1 647-351-2378
+803,803,DASHA,Chinese,3.0,43.64456,-79.40074,620 King Street W,Toronto,+1 416-601-0662
+804,804,Universal Grill,Breakfast & Brunch,3.5,43.670521103348,-79.426440440497,1071 Shaw Street,Toronto,+1 416-588-5928
+805,805,Mr.Tonkatsu,Japanese,4.0,43.66434,-79.38454,548 Yonge Street,Toronto,+1 416-901-9151
+806,806,Mi Mi Restaurant,Vietnamese,4.0,43.666376338824,-79.348772658905,688 Gerrard Street E,Toronto,+1 416-778-5948
+807,807,Caffino Ristorante,Italian,4.0,43.63914,-79.42547,1185 King Street W,Toronto,+1 416-588-9010
+808,808,Jerusalem Restaurant,Middle Eastern,4.0,43.70001,-79.42889,955 Eglinton Avenue W,York,+1 416-783-6494
+809,809,Hy's Steakhouse Toronto,Steakhouses,3.5,43.651051,-79.380849,365 Bay Street,Toronto,+1 416-364-6600
+810,810,Mother Cocktail Bar,Cocktail Bars,5.0,43.64524,-79.41435,874 Queen Street W,Toronto,+1 416-537-1928
+811,811,Prime on Avenue,Steakhouses,4.0,43.7344314,-79.4199426,1960 Avenue Rd,Toronto,+1 647-344-6099
+812,812,The Daily Dumpling Wonton Co,Chinese,4.0,43.654802780329,-79.4212308526039,792 College St,Toronto,+1 416-519-5008
+813,813,KaKa All You Can Eat,Japanese,3.5,43.6578757,-79.3843752,655 Bay Street,Toronto,+1 416-979-3288
+814,814,Death & Taxes Free House,American (Traditional),4.0,43.64311,-79.42496,1154 Queen Street W,Toronto,+1 416-516-2550
+815,815,Masseria,Pizza,4.0,43.64431,-79.39959,577 King Street W,Toronto,+1 416-263-9999
+816,816,John & Sons Oyster House,Seafood,4.0,43.6504156,-79.3817483,56 Temperance Street,Toronto,+1 416-703-5111
+817,817,Pho Son,Vietnamese,4.0,43.70483,-79.47679,2319 Keele Street,Toronto,
+818,818,Madame Levant,Breakfast & Brunch,4.5,43.66704,-79.34447,821 Gerrard Street E,Toronto,+1 416-729-0503
+819,819,Morocco House,Moroccan,4.0,43.609931,-79.549238,876 Browns Line,Etobicoke,+1 416-519-2777
+820,820,Nunu Ethiopian Fusion,Ethiopian,4.0,43.64296,-79.4256599,1178 Queen Street W,Toronto,+1 647-351-6868
+821,821,Cumin Kitchen - Fine Indian Cuisine,Indian,4.5,43.68469,-79.3184,1820 Danforth Avenue,Toronto,+1 647-748-5522
+822,822,Chadani Indian Cuisine,Indian,4.5,43.649,-79.37472,51 Colborne Street,Toronto,+1 647-748-4090
+823,823,Planta Queen,Vegan,4.0,43.65082,-79.3878,180 Queen Street W,Toronto,+1 647-812-1221
+824,824,Pimentas Grill,Portuguese,4.5,43.65516,-79.41602,648 College Street,Toronto,+1 416-539-0707
+825,825,Corner By Spoon And Fork,Thai,4.0,43.6715255,-79.3945958,55 Avenue Road,Toronto,+1 416-925-2828
+826,826,Little Tibet  Restaurant,Himalayan/Nepalese,4.5,43.6401,-79.438,1449A Queen Street W,Toronto,+1 416-532-9728
+827,827,Dumpling House,Dim Sum,3.5,43.6656887,-79.351097,619 Gerrard Street E,Toronto,+1 416-901-0288
+828,828,Sunrise House,Korean,3.5,43.66401,-79.41561,661 Bloor Street W,Toronto,+1 416-535-1019
+829,829,The Mutt,Burgers,5.0,43.64987,-79.43261,1A-1516 Dundas Street W,Toronto,+1 416-551-9749
+830,830,Hawk & Chick,Korean,4.5,43.64977,-79.42955,1426 Dundas Street W,Toronto,
+831,831,Deepizz Pizzeria,Pizza,4.5,43.6571462882036,-79.405417793824,384 College St,Toronto,+1 416-925-1555
+832,832,Seoul Food Take-Out,Korean,4.5,43.6720547517741,-79.3768996372819,606 Sherbourne Street,Toronto,+1 416-450-0519
+833,833,Terroni,Italian,3.5,43.6464,-79.40917,720 Queen Street W,Toronto,+1 416-504-0320
+834,834,Big Trouble,Bars,4.0,43.653366711621,-79.3964891508222,460 Dundas Street W,Toronto,+1 647-347-8880
+835,835,Ko'ox Hana,Mexican,4.5,43.65473,-79.40231,214 Augusta Avenue,Toronto,+1 647-402-9970
+836,836,The Chef Upstairs,Cooking Schools,4.0,43.70188,-79.38782,516 Mt Pleasant Rd,Toronto,+1 416-544-9221
+837,837,Tanto,Argentine,3.5,43.64581,-79.4197499,74 Ossington Avenue,Toronto,+1 416-546-3022
+838,838,Onnuri,Korean,4.0,43.80428,-79.33133,3330 Pharmacy Avenue,Toronto,
+839,839,Hua Sang Seafood Restaurant,Seafood,3.5,43.6557848,-79.3937013,43 Baldwin Street,Toronto,+1 416-596-1628
+840,840,Chef 88,Chinese,4.0,43.8176422826499,-79.3038474780487,3261 Kennedy Road,Toronto,+1 416-292-0883
+841,841,F'Amelia,Pizza,3.5,43.6675186,-79.3686295,12 Amelia Street,Toronto,+1 416-323-0666
+842,842,Shanghai Shikumen Fine Cuisine,Dim Sum,3.5,43.6527951870382,-79.3990259735631,530 Dundas Street W,Toronto,+1 647-344-7997
+843,843,R&D Restaurant,Asian Fusion,3.5,43.65152,-79.39703,241 Spadina Avenue,Toronto,+1 416-586-1241
+844,844,Bobbie Sue's Mac & Cheese,Comfort Food,4.0,43.6478899,-79.42041,162 Ossington Avenue,Toronto,+1 647-352-2762
+845,845,The Greek Grill,Greek,4.0,43.69357,-79.3501,128 O'Connor Drive,Toronto,+1 416-461-5200
+846,846,Amsterdam Brewery,Breweries,4.0,43.7070332,-79.3573192,45 Esandar Dr.,Toronto,+1 416-504-6882
+847,847,Darvish Restaurant,Persian/Iranian,4.0,43.66337,-79.38412,508 Yonge Street,Toronto,+1 416-929-8893
+848,848,La Vinia,Spanish,4.0,43.6164551,-79.4880219,2350 Lakeshore Boulevard W,Toronto,+1 647-748-2350
+849,849,Gyubee Japanese Grill - Scarborough,Japanese,4.0,43.8154009,-79.2926838,3720 Midland Ave,Toronto,
+850,850,Reyna on King,Tapas Bars,3.5,43.65346,-79.36226,354 King Street East,Toronto,
+851,851,Bolands Kitchen,American (Traditional),4.0,43.7034912,-79.3878174,575 Mt Pleasant Road,Toronto,+1 416-482-2424
+852,852,KINTORI YAKITORI,Japanese,3.5,43.66419,-79.41632,668 Bloor Street West,Toronto,+1 647-350-0668
+853,853,African Palace,Ethiopian,4.0,43.66107,-79.42895,977 Bloor Street W,Toronto,+1 416-539-0259
+854,854,La Vecchia Ristorante,Italian,3.0,43.625476,-79.4774428,90 Marine Parade Dr,Toronto,+1 416-251-5999
+855,855,Sake Bar Kushi,Japanese,4.0,43.7048332,-79.4069172,257 Eglinton Avenue W,Toronto,+1 647-748-7253
+856,856,Los Arrieros,Colombian,4.0,43.65583,-79.48736,276 Jane Street,Toronto,+1 416-761-1600
+857,857,Diwan,Turkish,4.0,43.7249856629077,-79.3320806601189,77 Wynford Drive,Toronto,+1 416-646-4670
+858,858,Kokyo Japanese Restaurant,Japanese,4.0,43.6824,-79.47113,572 Rogers Road,Toronto,+1 416-962-6968
+859,859,Pure Spirits Oyster House & Grill,Seafood,3.0,43.650404,-79.358722,17 Tank House Lane,Toronto,+1 416-361-5859
+860,860,Höm Cafe,Cafes,4.0,43.6703244641439,-79.3906142286939,95 Cumberland Street,Toronto,+1 416-923-2882
+861,861,Archeo,Italian,3.0,43.6506799168741,-79.3595404809133,31 Trinity Street,Toronto,+1 416-815-9898
+862,862,Lil Joe Cucina & Bar,Bistros,4.5,43.66927,-79.33615,1054 Gerrard Street E,Toronto,+1 647-352-6969
+863,863,Focaccia Restaurant,Italian,3.5,43.66933,-79.386,17 Hayden Street,Toronto,+1 416-323-0179
+864,864,Bang Sue Bar,Beer Bar,4.0,43.64634,-79.39359,11 Charlotte Street,Toronto,
+865,865,Barcelona Tavern,Mediterranean,3.5,43.63981,-79.4204199,109 Atlantic Avenue,Toronto,+1 416-531-0757
+866,866,Copacabana Brazilian Steakhouse,Brazilian,3.5,43.6483440823441,-79.3878309801221,230 Adelaide Street W,Toronto,+1 888-432-6721
+867,867,Gatto Wood Oven Pizza,Pizza,4.0,43.65062,-79.47977,2312 Bloor Street W,Toronto,+1 416-762-9682
+868,868,Bairrada Churrasqueira Grill,Portuguese,3.5,43.65329,-79.42868,1000 College Street,Toronto,+1 416-539-8239
+869,869,Pretty Ugly,Cocktail Bars,4.5,43.641688888312,-79.4303486868739,1237 Queen Street W,Toronto,
+870,870,Seoul Shakers,Bars,4.5,43.6585274234875,-79.4410362839699,1241 Bloor St W,Toronto,
+871,871,Greenwood Smokehouse BBQ,Barbeque,3.5,43.6789975,-79.3442872,673 Danforth Avenue,Toronto,+1 416-469-2270
+872,872,Mrakovic Meat & Deli,Specialty Food,4.5,43.66682,-79.57846,44 Wellesworth Dr,Etobicoke,+1 416-695-7396
+873,873,Restaurant Beijing,Korean,4.5,43.6484646555967,-79.5288202911615,4925 Dundas Street W,Toronto,+1 647-343-7838
+874,874,Cocina de Doña Julia,Latin American,4.5,43.6652489,-79.4524689,1545 Dupont Street,Toronto,+1 416-536-4577
+875,875,Chaban,Korean,4.0,43.6247912682064,-79.5104344189167,872 The Queensway,Toronto,+1 416-255-8222
+876,876,Churrasqueira Vila Verde Restaurant,Portuguese,4.0,43.65117,-79.41061,869 Dundas Street W,Toronto,+1 416-603-2515
+877,877,King's Café,Chinese,4.0,43.65421,-79.4021099,192 Augusta Avenue,Toronto,+1 416-591-1340
+878,878,Food 88,Vietnamese,4.5,43.65168,-79.36812,55 Sherbourne Street,Toronto,+1 647-298-7689
+879,879,Ladurée Boutique and Tea Salon,Macarons,3.5,43.7246843,-79.4541729,3401 Dufferin St,Toronto,+1 416-629-2391
+880,880,Plancha,Mediterranean,4.0,43.65037,-79.37731,44 Victoria Street,Toronto,+1 647-350-6333
+881,881,Foodbenders,Specialty Food,4.5,43.65974,-79.43683,1162 Bloor Street W,Toronto,+1 647-303-2363
+882,882,Tacorrito,Mexican,4.0,43.7577821796704,-79.4659504530478,170 Rimrock Rd,Toronto,+1 416-630-2332
+883,883,Tuk Tuk Canteen,Asian Fusion,3.5,43.65084,-79.45053,397 Roncesvalles Avenue,Toronto,
+884,884,Station Cafe & Kitchen,Salad,3.5,43.6622914717545,-79.4248295991069,866 Bloor Street West,Toronto,+1 416-535-2345
+885,885,Bi Bim Bap,Korean,4.0,43.70055,-79.4287204,950 Eglinton Avenue W,Toronto,+1 416-787-7423
+886,886,Lan Restaurant,Vietnamese,3.5,43.65916,-79.3479,755 Queen Street E,Toronto,+1 647-748-7388
+887,887,Cafe CanCan,French,3.5,43.6627153350009,-79.4034854592128,89 Harbord Street,Toronto,+1 647-341-3100
+888,888,Il Ponte Cucina Italiana,Italian,4.0,43.658,-79.35295,625 Queen Street E,Toronto,+1 416-778-0404
+889,889,Anejo,Bars,3.0,43.64474,-79.39992,600 King Street W,Toronto,+1 416-862-8226
+890,890,Sea Witch Fish and Chips,Fish & Chips,4.0,43.6822185,-79.4239619,636 Saint Clair Avenue W,Toronto,+1 647-349-4824
+891,891,UFO Restaurant,Diners,4.0,43.64391,-79.40889,241 Niagara St,Toronto,+1 416-703-0888
+892,892,Reposado Bar & Lounge,Tapas/Small Plates,4.0,43.64729,-79.42012,136 Ossington Avenue,Toronto,+1 416-532-6474
+893,893,Sansotei,Ramen,4.0,43.6668190173642,-79.3854692490327,650 Yonge Street,Toronto,+1 647-349-3833
+894,894,Meet You Leisure Restaurant,Chinese,4.0,43.776944320744,-79.4144428885916,5437 Yonge Street,Toronto,+1 416-223-4441
+895,895,The Hogtown Vegan,Vegan,4.0,43.6605669,-79.4325733,1056 Bloor St. W,Toronto,+1 416-901-9779
+896,896,Jollibee,Filipino,3.5,43.7732,-79.28111,15 William Kitchen Road,Toronto,+1 647-953-1100
+897,897,Udon Kitanoya,Japanese,3.5,43.66543,-79.40875,513 Bloor Street W,Toronto,+1 416-519-8513
+898,898,Kathmandu Restaurant,Indian,3.5,43.67113,-79.38792,12 Cumberland Street,Toronto,+1 647-345-4214
+899,899,Mattachioni,Italian,4.0,43.6648758891217,-79.4549725527003,1617 Dupont Street,Toronto,+1 416-519-1010
+900,900,K-Wok,Korean,3.0,43.6689115417723,-79.3864700943232,730 Yonge Street,Toronto,+1 647-350-5965
+901,901,Leslie Jones,Comfort Food,4.0,43.6628904,-79.3318366,1182 Queen Street E,Toronto,+1 416-463-5663
+902,902,Mad Mexican,Mexican,3.5,43.6586304,-79.4879913,405 Jane Street,Toronto,+1 416-907-5787
+903,903,Wah Too Seafood Restaurant,Seafood,4.0,43.6547399,-79.3872,58 Centre Avenue,Toronto,+1 416-971-6567
+904,904,Jack and Lil's,Caterers,5.0,43.65155,-79.4089,823 Dundas Street W,Toronto,+1 647-347-5459
+905,905,Pho Xua,Thai,3.5,43.6741568799204,-79.4612735346423,1768 Street Clair Avenue W,Toronto,+1 416-519-9979
+906,906,The Gaslight,Cocktail Bars,4.5,43.65742,-79.44806,1426 Bloor Street W,Toronto,+1 647-402-9728
+907,907,Maiz,Latin American,4.0,43.63922,-79.44588,9 Roncesvalles Ave,Toronto,+1 647-341-8553
+908,908,Nonna Francesca's Ristorante,Pizza,3.0,43.6418131143545,-79.3798621371388,1 York St,Toronto,+1 416-258-6088
+909,909,Hogtown Smoke In the Beach,Barbeque,3.5,43.6695491215567,-79.3021431192756,1959 Queen Street E,Toronto,+1 416-691-9009
+910,910,Kitchen On Sixth,Breakfast & Brunch,4.5,43.6005867949987,-79.5068445875054,2976 Lake Shore Boulevard W,Toronto,+1 647-349-4412
+911,911,Mymy Chicken,Chicken Wings,4.0,43.76424,-79.41079,9 Spring Garden Avenue,Toronto,+1 416-227-7772
+912,912,Char No. 5 Whisky Bar,Whiskey Bars,4.0,43.64303,-79.38379,75 Lower Simcoe Street,Toronto,+1 416-637-5484
+913,913,The Wickson Social,Cocktail Bars,4.0,43.66584,-79.38539,5 St Joseph Street,Toronto,+1 647-748-1501
+914,914,Hunters Landing Bar Grill Hub Restaurant,Comfort Food,3.5,43.64002,-79.39673,82 Fort York Blvd,Toronto,+1 647-352-6082
+915,915,Cheese Boutique,Cheese Shops,4.5,43.6385,-79.47515,45 Ripley Avenue,Toronto,+1 416-762-6292
+916,916,Kabul Restaurant and Bakery,Bakeries,4.0,43.7145615146292,-79.3336165187636,747 Don Mills Road,Toronto,+1 416-423-4445
+917,917,Harvest Kitchen,Canadian (New),3.5,43.66278,-79.40437,124 Harbord Street,Toronto,+1 416-901-5901
+918,918,Loga's Corner,Himalayan/Nepalese,4.5,43.64053,-79.43597,216C Close Avenue,Toronto,+1 647-761-0965
+919,919,Lims Chicken,Korean,3.5,43.664402,-79.4141941,623 Bloor Street W,Toronto,+1 416-537-8288
+920,920,Yin Ji Chang Fen,Chinese,4.0,43.8202802610795,-79.3252295350153,7010 Warden Avenue,Markham,+1 905-307-2688
+921,921,Best Bite Bar & Grill,American (Traditional),4.5,43.65322,-79.60078,5503 Eglinton Avenue W,Toronto,+1 416-620-6600
+922,922,Regina Pizzeria & Trattoria,Italian,4.0,43.654881,-79.420858,782 College Street,Toronto,+1 416-535-2273
+923,923,Chacho's Fine Mexican Dining,Mexican,3.5,43.6978111,-79.3890686,234 Merton Street,Toronto,+1 416-932-2434
+924,924,Fusaro's Kitchen,Italian,4.0,43.64808,-79.39556,147 Spadina Avenue,Toronto,+1 416-260-8414
+925,925,Bluestone Lane,Coffee & Tea,4.5,43.649494,-79.3758365,37 King Street E,Toronto,+1 718-374-6858
+926,926,Sher-E-Punjab,Indian,4.0,43.67713,-79.35299,351 Danforth Avenue,Toronto,+1 416-465-2125
+927,927,Leziz  Kitchen,Mediterranean,5.0,43.60405,-79.53576,418 Horner Avenue,Toronto,+1 416-259-9838
+928,928,Extra Burger,Fast Food,4.5,43.64928,-79.42753,1357 Dundas Street W,Toronto,
+929,929,Kiro Sushi,Japanese,4.0,43.6722662302551,-79.3874411896101,4 Collier Street,Toronto,+1 647-347-3262
+930,930,August 8,Japanese,3.5,43.6546135705379,-79.3986288830638,331 Spadina Ave,Toronto,+1 416-597-2288
+931,931,Toben Food By Design,Caterers,4.5,43.6737247,-79.4792485,150 Symes Rd,Toronto,+1 647-344-8323
+932,932,Blua,Tapas/Small Plates,4.5,43.6660294065672,-79.4645803918423,395 Keele Street,Toronto,+1 416-763-4035
+933,933,Boat King of Thai Noodles,Thai,3.0,43.66013,-79.38583,770 Bay Street,Toronto,
+934,934,Sophie's,Breakfast & Brunch,4.0,43.70632,-79.37561,1614 Bayview Avenue,Toronto,+1 416-485-1614
+935,935,Banjara Indian Cuisine,Indian,3.5,43.66315,-79.42188,796 Bloor Street W,Toronto,+1 416-963-9360
+936,936,Three Speed,Bars,4.0,43.65917,-79.43795,1163 Bloor St W,Toronto,+1 647-430-3834
+937,937,Tapas At Embrujo,Tapas/Small Plates,3.5,43.67615,-79.3582931,97 Danforth Avenue,Toronto,+1 647-705-7880
+938,938,House of Chan,Canadian (New),3.5,43.7037315,-79.41362,514 Eglinton Avenue W,Toronto,+1 416-781-5575
+939,939,Yupdduk Bloor,Korean,4.0,43.66473,-79.4138,612 Bloor Street W,Toronto,+1 416-732-7989
+940,940,Hotopia Sichuan Cuisine,Chinese,3.0,43.76443,-79.41022,25 Spring Garden Avenue,Toronto,+1 416-551-8832
+941,941,The Opium Bar,Whiskey Bars,4.5,43.64928,-79.42628,1321 Dundas Street West,Toronto,+1 647-828-9193
+942,942,Indian Roti House,Indian,4.0,43.6394,-79.38546,256 Queens Quay W,Toronto,+1 416-260-6666
+943,943,Flaming Stove,Middle Eastern,4.5,43.6982689,-79.3957672,21 Davisville Avenue,Toronto,+1 416-644-5051
+944,944,Mezzetta Restaurant & Tapas Bar,Mediterranean,3.5,43.68154,-79.42533,681 Saint Clair Avenue W,Toronto,+1 416-658-5687
+945,945,Iruka Sushi,Japanese,3.5,43.6369364641686,-79.396640733727,550 Queens Quay W,Toronto,+1 647-350-5722
+946,946,Over Easy Restaurant,Breakfast & Brunch,4.0,43.6480441867393,-79.377672200254,56 Yonge Street,Toronto,+1 416-862-0110
+947,947,Brasileirissimo Steak House,Brazilian,4.5,43.64925,-79.4226,1209 Dundas Street W,Toronto,+1 416-537-8988
+948,948,Paracas Peruvian,Peruvian,3.5,43.6794411,-79.436944,992 St.Clair Avenue W,Toronto,+1 416-532-5627
+949,949,7 West Cafe,Italian,3.5,43.6685661933329,-79.3865257501602,7 Charles Street W,Toronto,+1 416-928-9041
+950,950,Paracas Peruvian,Peruvian,3.5,43.6794411,-79.436944,992 St.Clair Avenue W,Toronto,+1 416-532-5627
+951,951,7 West Cafe,Italian,3.5,43.6685661933329,-79.3865257501602,7 Charles Street W,Toronto,+1 416-928-9041
+952,952,Bodega Henriette,Bars,4.5,43.6780199,-79.31471,1801 Gerrard Street E,Toronto,+1 416-546-6261
+953,953,Storm Crow Manor,Bars,4.0,43.6667489584503,-79.3816431239247,580 Church Street,Toronto,+1 416-367-2769
+954,954,River Tai Restaurant,Thai,4.0,43.66316,-79.40309,92 Harbord Street,Toronto,+1 416-925-6305
+955,955,Poke Guys,Hawaiian,4.0,43.65484,-79.38517,112 Elizabeth Street,Toronto,+1 416-506-7653
+956,956,Scarlet Door,Cafes,4.5,43.66858,-79.38537,15 Charles Street E,Toronto,+1 647-475-4436
+957,957,Tilt Arcade Bar,Arcades,4.5,43.65182,-79.40925,824 Dundas Street West,Toronto,+1 416-551-8458
+958,958,Pho Anh Vu,Vietnamese,4.0,43.7183600176532,-79.4573690012284,3200 Dufferin Street,Toronto,+1 647-346-9333
+959,959,Grill Gate,Canadian (New),4.5,43.75315,-79.45165,832 Sheppard Avenue W,Toronto,+1 416-631-1167
+960,960,Maple Leaf Tavern,American (Traditional),4.0,43.66814,-79.33976,955 Gerrard Street E,Toronto,+1 416-465-0955
+961,961,Paisano,Italian,3.5,43.7541723,-79.3495129,865 York Mills Road,Toronto,+1 416-222-5487
+962,962,Jin's Mi-Fen,Noodles,4.0,43.77831,-79.4147799,5515 Yonge Street,Toronto,+1 647-348-6868
+963,963,Green Tea Restaurant Downtown Toronto,Chinese,3.5,43.65235,-79.39731,261 Spadina Avenue,Toronto,+1 416-519-1073
+964,964,Itacate,Mexican,4.5,43.6793908547042,-79.4371611624956,998 St. Clair Avenue W,Toronto,+1 647-701-0420
+965,965,Coffee Oysters Champagne,Champagne Bars,4.0,43.64757,-79.38684,214 King Street W,Toronto,+1 416-408-4044
+966,966,Tokyo Sushi,Sushi Bars,4.0,43.6655988169559,-79.3869840388907,33 St Joseph Street,Toronto,+1 416-513-0002
+967,967,Siempre Restaurant,Breakfast & Brunch,4.0,43.643393311738,-79.3922074406298,348 Front Street W,Toronto,+1 647-346-8222
+968,968,Wish,Lounges,3.0,43.66861,-79.3855899,3 Charles Street E,Toronto,+1 416-935-0240
+969,969,Rosalinda,Mexican,3.5,43.6500769660141,-79.3848312646151,133 Richmond Street W,Toronto,+1 416-907-0650
+970,970,Hokkaido Ramen Santouka,Ramen,4.0,43.66539,-79.40882,515 Bloor Street W,Toronto,+1 647-346-6350
+971,971,Padella,Italian,4.0,43.7346999,-79.41951,1967 Avenue Road,Toronto,+1 416-519-8222
+972,972,River Tai,Chinese,4.0,43.6630083323837,-79.4026139751077,92 Harbord Street,Toronto,+1 416-925-6305
+973,973,Omni Palace Noodle House,Noodles,3.5,43.7713141,-79.3316661,235 Consumers Road,Toronto,+1 416-493-0080
+974,974,Europe Bar & Restaurant,Hungarian,4.0,43.71817,-79.4297799,3030 Bathurst Street,North York,+1 647-436-9739
+975,975,The Alpine,Gastropubs,4.0,43.66562,-79.4652,2872 Dundas Street W,Toronto,+1 647-352-5585
+976,976,Folly Brewing,Brewpubs,4.0,43.65401,-79.42591,928 College Street,Toronto,+1 416-533-7272
+977,977,Kasa Moto,Japanese,3.5,43.670608,-79.3927837,115 Yorkville Avenue,Toronto,+1 647-348-7000
+978,978,El Charro,Mexican,4.0,43.6771428,-79.3590065,788 Broadview ave,Toronto,+1 647-358-5883
+979,979,Souv Like,Greek,4.5,43.67948,-79.34532,708 Pape Avenue,Toronto,+1 647-349-9420
+980,980,Baddies,Coffee & Tea,4.0,43.6588007893681,-79.4426684081554,679 Lansdowne Avenue,Toronto,
+981,981,Earls Kitchen + Bar,Canadian (New),3.5,43.6480134620711,-79.3839246431072,150 King Street West,Toronto,+1 416-916-0227
+982,982,The Peasant Table,Italian,3.5,43.6595356508969,-79.3473240555947,782 Queen Street E,Toronto,+1 647-343-7022
+983,983,BSG Hot Pot,Chinese,4.0,43.80597,-79.33742,3560 Victoria Park Avenue,Toronto,+1 416-551-6656
+984,984,O Espeta Restaurant,Portuguese,5.0,43.6758988429,-79.4537720829,1480 st Clair Avenue W,Toronto,+1 416-654-6666
+985,985,Completo,Latin American,4.5,43.6626328,-79.3340575,5 Coady Avenue,Toronto,+1 416-901-9233
+986,986,Qoola,Desserts,4.0,43.7741348,-79.5036081,4700 Keele Street,Toronto,+1 416-661-6652
+987,987,Paldo Gangsan,Korean,4.0,43.664,-79.41743,694 Bloor Street  W,Toronto,+1 416-536-7517
+988,988,Joy Thai Restaurant,Thai,4.0,43.72796,-79.40321,3192 Yonge Street,Toronto,+1 416-487-5144
+989,989,Mistura Restaurant,Italian,3.5,43.6742947,-79.3982251,265 Davenport Road,Toronto,+1 416-515-0009
+990,990,ND Sushi & Grill,Sushi Bars,4.0,43.65735,-79.40465,370 College St,Toronto,+1 416-546-1002
+991,991,Bebo's Authentic Grill,Modern European,4.5,43.612076702283,-79.5416979119182,533 Evans Avenue,Toronto,+1 647-352-2400
+992,992,Koji Japanese Restaurant,Sushi Bars,4.5,43.6653247110788,-79.4528076801096,1553 Dupont Street,Toronto,+1 416-588-7426
+993,993,Le Paradis Brasserie Bistro,French,3.5,43.67506,-79.40025,166 Bedford Road,Toronto,+1 416-921-0995
+994,994,V's Schnitzel House,Slovakian,3.5,43.60222,-79.5456321,448 Browns Line,Toronto,+1 416-255-3179
+995,995,Avocado Sushi,Japanese,4.0,43.6677895,-79.3883896,1105 Bay Street,Toronto,+1 416-323-9770
+996,996,Bar Mercurio,Italian,3.0,43.6674817706316,-79.4006463811387,270 Bloor Street W,Toronto,+1 416-960-3877
+997,997,Eggstatic,Breakfast & Brunch,4.5,43.70549,-79.37534,1568 bayview avenue,Toronto,+1 647-352-1568
+998,998,Taste of China,Chinese,3.5,43.654,-79.39891,338 Spadina Ave,Toronto,+1 416-348-8828
+999,999,The Fanzone Wings & Ribs,Chicken Wings,4.0,43.7530567,-79.2762336,1168 Kennedy Road,Toronto,+1 416-551-0415
