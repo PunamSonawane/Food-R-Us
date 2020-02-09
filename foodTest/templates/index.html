@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Food R Us</title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="index.html" >Food R Us</a>
+        </div>
+      </div>
+    </nav>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h4>Total Restaurents:</h4>
+          {{test[0][1]}}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-3">
+          <div class="well">
+            <h4>Total Restaurents by Category:</h4>
+            {{test[0][0]}}
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="well">
+            <h4>Visualization by options</h4>
+            <select class="form-control" id="select" name="select-option" onchange="javascript:optionChanged()">
+              <option value="">Select chart</option>
+              <option value="ratings">Restaurents by Ratings</option>
+              <option value="category">Restaurents by Category</option>
+            </select>
+          </div>
+        </div>
+        
+        
+        
+      </div>      
+    
+    <div class="container">
+      <div class="row margin-top-50">
+        <div class="col-md-6">
+          <div class="center" >
+            <h3>Restaurent Dataset</h3>
+          </div>
+          <div class="col-md-6">
+            <div id="table-area" class="">
+              <table id="ufo-table" class="table table-striped">
+                <h1></h1>
+                <thead>
+                  <tr>
+                    <th class="table-head">Name</th>
+                    <th class="table-head">Category</th>
+                    <th class="table-head">Ratings</th>
+                    <th class="table-head">Address</th>
+                    <th class="table-head">Phone No.</th>
+                    
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for item in test[1] %}
+                    <tr>
+                      <td>{{item[0]}}</td>
+                      <td>{{item[1]}}</td>
+                      <td>{{item[2]}}</td>
+                      <td>{{item[3]}}</td>
+                      <td>{{item[4]}}</td>
+                    </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="center">
+            <h3>Visualisation</h3>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div id="graph">
+            
+          </div>
+        </div>        
+      </div>
+    </div>
+  </div>
+    <footer class="footer">
+      <span class="bottom">Food R Us</span>
+    </footer>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+
+</html>
