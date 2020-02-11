@@ -1,19 +1,27 @@
 # import necessary libraries
 import os
 import psycopg2
+import pygeoj
+
+
 from flask import (
     Flask,
     render_template,
     jsonify,
+    json, 
+    current_app as app,
     request,
     redirect)
 
 app = Flask(__name__)
 
-
-
 @app.route("/")
 def home():
+    return render_template("page2.html")
+
+
+@app.route("/send")
+def send():
 
     con = psycopg2.connect(database="fooddb2", user="postgres", password="Ruhi", host="127.0.0.1", port="5432")
     #print("Database opened successfully")
@@ -84,10 +92,10 @@ def display():
 
     return jsonify(data)
 
+@app.route("/map")
+def map():
 
-
-
-
+    return render_template("map.html")
 
 
 if __name__ == "__main__":
