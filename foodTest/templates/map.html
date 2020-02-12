@@ -5,8 +5,6 @@
   <title>Geo JSON</title>
 
   <!-- Leaflet CSS & JS -->
-  <script src="https://bowercdn.net/c/es6-promise-3.2.2/es6-promise.min.js" integrity="sha384-GF7IR8yT5028AbfHnSJSxX0Y1D+sicFNHXDyV1Hzcf4EISXdjP8uW0Q/0yFIHpTD" crossorigin="anonymous"></script>
-<script src="https://bowercdn.net/c/fetch-1.0.0/fetch.js" integrity="sha384-j9GCh0V617Ks+uEOZnAhwzTOWu5lPIlPW3QYRSfEwXd+x7VqP1XHNLgj3AIX7Mo0" crossorigin="anonymous"></script>
 
   <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7.3/leaflet.js"></script>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
@@ -27,6 +25,8 @@
   <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
   integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
   crossorigin=""></script>
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+
 
   <!--D3 cdn-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
@@ -37,17 +37,38 @@
 
 <body>
     <div class="btn-group">
-        <button type="button" id="allbus" class="btn btn-success">All</button>
-        <button type="button" id="others" class="btn btn-primary">Others</button>
-        <button type="button" id="cafes" class="btn btn-danger">Cafes</button>
+        <button type="button" id="burgers" class="btn btn-success">Burgers</button>
+        <button type="button" id="cafes" class="btn btn-primary">Cafes</button>
+        <button type="button" id="italians" class="btn btn-danger">Italian</button>
+        <button type="button" id="chineses"class="btn btn-warning">Chinese</button>
+        <button type="button" id="pizzas" class="btn btn-success">Pizza</button>
+        <button type="button" id="vegans" class="btn btn-primary">Vegan</button>
+        <button type="button" id="bars" class="btn btn-danger">Bars</button>
+        <button type="button" id="indians"class="btn btn-warning">Indian</button>
+        <button type="button" id="mexicans" class="btn btn-success">Mexican</button>
+        <button type="button" id="thais" class="btn btn-primary">Thai</button>
+        <button type="button" id="bnbs" class="btn btn-danger">B&B</button>
+        <button type="button" id="japaneses"class="btn btn-warning">Japanese</button>
+        <button type="button" id="sushis" class="btn btn-success">Sushi Bars</button>
+        <button type="button" id="cubans" class="btn btn-primary">Cuban</button>
+        <button type="button" id="comforts" class="btn btn-danger">Comfort Food</button>
+        <button type="button" id="koreans"class="btn btn-warning">Korean</button>
+        <button type="button" id="ramens" class="btn btn-success">Ramen</button>
+        <button type="button" id="frenchs" class="btn btn-primary">French</button>
+        <button type="button" id="greeks" class="btn btn-danger">Greek</button>
+        
     </div>
   <!-- The div where we will inject our map -->
   <div id="map"></div>
 
   <!-- API key -->
   <script type="text/javascript" src="static/js/config.js"></script>
-  <script type="text/javascript" src="static/data/yelp.geojson"></script>
   <!-- Our JS -->
   <script type="text/javascript" src="static/js/logic.js"></script>
+
+  <script type="text/javascript">
+  
+    </script>
+
 </body>
 </html>

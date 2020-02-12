@@ -2,75 +2,41 @@
 
 var url = "static/data/yelp.geojson";
 
-  var markersA = [];
-  var markersB = [];
-  var markersC = [];
-  var markersD = [];
-// Perform a GET request from the file
 d3.json(url,function(data) {
   
-  
+  //location=data
   console.log(data);
  
-  console.log(data.features[172].properties.lat)
 
-  console.log(markersA);
-  //Loop through the initial array and add to two different arrays based on the specified variable
-  for (var i = 0; i < data.features.length; i++) {
-    if(data.features[i].properties.Rating>3.9){
-      markersA.push(data.features[i].properties)
-    }
-    if(data.features[i].properties.Rating>=3 && data.features[i].properties.Rating<4 ){
-      markersB.push(data.features[i].properties)
-    }
-
-    if(data.features[i].properties.Rating>=2 && data.features[i].properties.Rating<3 ){
-      markersC.push(data.features[i].properties)
-    }
-    if(data.features[i].properties.Rating>=0 && data.features[i].properties.Rating<2 ){
-      markersD.push(data.features[i].properties)
-    }
-
-  }
-    //add the groups of markers to layerGroups
-    //var groupA = L.layerGroup(markersA);
-    //var groupB = L.layerGroup(markersB);
-    //var groupC=L.layerGroup(markersC);
-    //var groupD=L.layerGroup(markersD);
-    console.log(markersD);
   // Once we get a response, send the data.features object to the createFeatures function
-  createFeatures(data.features);
+  createMap(data);
 
 });
 
-  var groupA = L.layerGroup(markersA);
-  var groupB = L.layerGroup(markersB);
-  var groupC = L.layerGroup(markersC);
-  var groupD = L.layerGroup(markersD);
 
 
-function createFeatures(foodData) {
- 
+
+function createFeatures(restaurants) {
+ //console.log(groupA)
 
   // Define a function we want to run once for each feature in the features array
-  // Give each feature a popup describing the restaurant name , cateogry and rating
-  function onEachFeature(feature, layer) {
-    layer.bindPopup("<h3>" + feature.properties.rname +
+  // Give each feature a popup describing the restaurant name , category and rating
+  var points = L.geoJSON(restaurants, {
+    pointToLayer:function(feature, latlng){
+      return L.marker(latlng,{
+        title:feature.properties.rname,
+        riseOnHover:true
+        });
+      },
+      onEachFeature:function(feature,layer){   
+      layer.bindPopup("<h3>" + feature.properties.rname +
       "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>");
-  }
-
-  // Create a GeoJSON layer containing the features array on the restaurant Data object
-  // Run the onEachFeature function once for each piece of data in the array
-  var restaurants = L.geoJSON(foodData, {
-    onEachFeature: onEachFeature
-  });
-
+        }
+    });
+    console.log(points);
   // Sending our restaurant layer to the createMap function
-  createMap(restaurants);
-}//createMap(restaurants)
-
-
-
+  createMap(points);
+}
 
 function createMap(restaurants) {
 
@@ -88,34 +54,413 @@ function createMap(restaurants) {
     id: "mapbox.dark",
     accessToken: API_KEY
   });
-  // Define a baseMaps object to hold our base layers
-  var baseMaps = {
-    "Street Map": streetmap,
-    "Dark Map": darkmap
-  };
   
-  // Create overlay object to hold our overlay layer
-  var overlayMaps = {
-    Restaurants: restaurants,
-    Excellent:groupA,
-    VeryGood:groupB,
-    Bad:groupD
-  };
+  var points = L.geoJSON(restaurants, {
+    pointToLayer:function(feature, latlng){
+      return L.marker(latlng,{
+        title:feature.properties.rname,
+        riseOnHover:true
+        });
+      },
+      onEachFeature:function(feature,layer){   
+      layer.bindPopup("<h3>" + feature.properties.rname +
+      "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>");
+        }
+    });
 
+  var pointsA= L.geoJSON(restaurants, {
+    filter:filterA,
+    pointToLayer:function(feature, latlng){
+      return L.marker(latlng,{
+        title:feature.properties.rname,
+        riseOnHover:true
+        });
+      },
+      onEachFeature:function(feature,layer){   
+      layer.bindPopup("<h3>" + feature.properties.rname +
+      "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>");
+        }
+    });
+
+    var pointsB = L.geoJSON(restaurants, {
+      filter:filterB,
+      pointToLayer:function(feature, latlng){
+        return L.marker(latlng,{
+          title:feature.properties.rname,
+          riseOnHover:true
+          });
+        },
+        onEachFeature:function(feature,layer){   
+        layer.bindPopup("<h3>" + feature.properties.rname +
+        "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>");
+          }
+      });
+
+      var pointsC = L.geoJSON(restaurants, {
+        filter:filterC,
+        pointToLayer:function(feature, latlng){
+          return L.marker(latlng,{
+            title:feature.properties.rname,
+            riseOnHover:true
+            });
+          },
+          onEachFeature:function(feature,layer){   
+          layer.bindPopup("<h3>" + feature.properties.rname +
+          "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>");
+            }
+        });
+
+    
+        var pointsD = L.geoJSON(restaurants, {
+          filter:filterD,
+          pointToLayer:function(feature, latlng){
+            return L.marker(latlng,{
+              title:feature.properties.rname,
+              riseOnHover:true
+              });
+            },
+            onEachFeature:function(feature,layer){   
+            layer.bindPopup("<h3>" + feature.properties.rname +
+            "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>");
+              }
+          });
+          var italian=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Italian";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+          var burger=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Burgers";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+          var cafe=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Cafes";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var chinese=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Chinese";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+
+          var pizza=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Pizza";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+          var indian=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Indian";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var vegan=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Vegan";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var bar=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Bars";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var mexican=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Mexican";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var thai=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Thai";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var bnb=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Breakfast & Brunch";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+
+          var japanese=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Japanese";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var sushi=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Sushi Bars";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+
+          var salad=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Salad";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var cuban=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Cuban";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var comfortfood=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Comfort Food";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var korean=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Korean";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var ramen=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Ramen";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var french=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="French";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+
+          var greek=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Greek";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
+ 
+//console.log(markersC);
   // Create our map, giving it the streetmap and earthquakes layers to display on load
   var myMap = L.map("map", {
     center: [
       43.6532, -79.382
     ],
     zoom: 9,
-    layers: [streetmap, restaurants]
+    layers: [streetmap]
   });
    const myIcon = L.icon({
-    iconUrl: 'marker_icon.png',
+    iconUrl: 'static/css/assets/images/marker_icon.png',
     iconSize: [36, 45],
     iconAnchor: [15, 35]
 });
-//console.log(location);
+
+//add markers based on rating filters
+points.addTo(myMap);
+pointsA.addTo(myMap);
+pointsB.addTo(myMap);
+pointsC.addTo(myMap);
+pointsD.addTo(myMap);
+//add markers based on category types
+burger.addTo(myMap);
+italian.addTo(myMap);
+cafe.addTo(myMap);
+pizza.addTo(myMap);
+vegan.addTo(myMap);
+bar.addTo(myMap);
+indian.addTo(myMap);
+mexican.addTo(myMap);
+thai.addTo(myMap);
+bnb.addTo(myMap);
+japanese.addTo(myMap);
+sushi.addTo(myMap);
+salad.addTo(myMap);
+cuban.addTo(myMap);
+comfortfood.addTo(myMap);
+korean.addTo(myMap);
+ramen.addTo(myMap);
+french.addTo(myMap);
+greek.addTo(myMap);
+ // Define a baseMaps object to hold our base layers
+ var baseMaps = {
+  "Street Map": streetmap,
+  "Dark Map": darkmap
+};
+//console.log(markersD);
+// Create overlay object to hold our overlay layer
+var overlayMaps = {
+  "All Restaurants": points,
+  "Excellent":pointsA,
+  "Very Good":pointsB,
+  "Good":pointsC,
+  "Worth a shot":pointsD
+};
+
+
    //Get Current location of user 
 navigator.geolocation.getCurrentPosition(function(location) {
   var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
@@ -129,59 +474,316 @@ navigator.geolocation.getCurrentPosition(function(location) {
   L.control.layers(baseMaps, overlayMaps, {
     collapsed: false
   },{icon: myIcon}).addTo(myMap);
-}
 
-
-
-
-function spliceData(){
-  //Add filters for data
-
-var promise=$.getJSON("yelp.geojson");
-promise.then(function(data){
-  var allbusiness=L.geoJson(data);
-  var cafes=L.geoJson(data,{
-    filter:function(feature,layer){
-      return feature.properties.fcategory=="Cafe";
-    },
-    pointToLayer:function(feature,latlng){
-      return L.marker(latlng,{
-        icon:myIcon
-      }).on('mouseover',function(){
-        this.bindPopup(feature.properties.rname).openPopup();
+  $("#italians").click(function() {
+    myMap.eachLayer(function (layer) {
+      myMap.removeLayer(layer);
+      myMap.addLayer(streetmap);
+      navigator.geolocation.getCurrentPosition(function(location) {
+        var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+      
+        var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
       });
-    }
+
+  });
+    myMap.addLayer(italian);
+  });
+
+  $("#burgers").click(function() {
+    myMap.eachLayer(function (layer) {
+      myMap.removeLayer(layer);
+      myMap.addLayer(streetmap);
+      navigator.geolocation.getCurrentPosition(function(location) {
+        var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+      
+        var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+      });
+
+  });
+    myMap.addLayer(burger);
+  });
+
+  $("#cafes").click(function() {
+    myMap.eachLayer(function (layer) {
+      myMap.removeLayer(layer);
+      myMap.addLayer(streetmap);
+      navigator.geolocation.getCurrentPosition(function(location) {
+        var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+      
+        var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+      });
+
+  });
+    myMap.addLayer(cafe);
+  });
+
+
+  $("#italians").click(function() {
+    myMap.eachLayer(function (layer) {
+      myMap.removeLayer(layer);
+      myMap.addLayer(streetmap);
+      navigator.geolocation.getCurrentPosition(function(location) {
+        var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+      
+        var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+      });
+
+  });
+    myMap.addLayer(italian);
+  });
+
+  $("#chineses").click(function() {
+    myMap.eachLayer(function (layer) {
+      myMap.removeLayer(layer);
+      myMap.addLayer(streetmap);
+      navigator.geolocation.getCurrentPosition(function(location) {
+        var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+      
+        var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+      });
+
+  });
+    myMap.addLayer(chinese);
 })
-var others = L.geoJson(data, {
-  filter: function(feature, layer) {
-      return feature.properties.BusType != "Cafe";
-  },
-  pointToLayer: function(feature, latlng) {
-      return L.marker(latlng, {
-      }).on('mouseover', function() {
-          this.bindPopup(feature.properties.Name).openPopup();
-      });
-    }
-});
-map.fitBounds(allbusinesses.getBounds(), {
-  padding: [50, 50]
-});
-});
+$("#pizzas").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
 
-cafes.addTo(myMap)
-others.addTo(myMmap)
-// The JavaScript below is new
-$("#others").click(function() {
-  map.addLayer(others)
-  map.removeLayer(cafes)
 });
-$("#cafes").click(function() {
-  map.addLayer(cafes)
-  map.removeLayer(others)
+  myMap.addLayer(pizza);
+})
+
+$("#vegans").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
 });
-$("#allbus").click(function() {
-  map.addLayer(cafes)
-  map.addLayer(others)
+  myMap.addLayer(vegan);
+})
+
+$("#bars").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
 });
+  myMap.addLayer(bar);
+})
+
+$("#indians").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(indian);
+})
+
+$("#mexicans").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(mexican);
+})
+
+$("#thais").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(thai);
+})
+
+$("#bnbs").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(bnb);
+})
+
+$("#japaneses").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(japanese);
+})
+
+$("#sushis").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(sushi);
+})
+$("#salads").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(salads);
+})
+
+$("#cubans").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(cuban);
+})
+
+$("#comforts").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(comfortfood);
+})
+
+$("#koreans").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(korean);
+})
+
+$("#ramens").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(ramen);
+})
+
+$("#frenchs").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(french);
+})
+$("#greeks").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+
+});
+  myMap.addLayer(greek);
+})
+};
+
+
+//filter functions for 
+
+function filterA(feature){
+if(feature.properties.Rating>=4.5)
+return true
 }
-
+function filterB(feature){
+  if(feature.properties.Rating>=3.5 && feature.properties.Rating<4.5)
+  return true
+}
+function filterC(feature){
+  if(feature.properties.Rating>=2 && feature.properties.Rating<3.5)
+  return true
+}
+function filterD(feature){
+  if(feature.properties.Rating<2)
+  return true
+}
