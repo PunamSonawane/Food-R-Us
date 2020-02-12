@@ -3,7 +3,6 @@ function buildPlot() {
     /* data route */
   var url = "/api/display";
   d3.json(url).then((gdata)=> {
-    //console.log(gdata[0]["Rcount"]);
 
     window.optionChanged=function(){
       
@@ -12,19 +11,32 @@ function buildPlot() {
       //Plot the Pie chart 
       if(e=='ratings')
       {
-      /*var data = [{
-        values: gdata[0]["Rcount"],
-        labels: gdata[0]["Rating"],
-        type: 'pie'
+        var data1=[{
+          type: 'bar',
+        x: gdata[0]["Rcount"],
+        y:  gdata[0]["Rating"],
+        orientation: 'h',
+        marker: { color: ['#f3cec9', '#e7a4b6', '#cd7eaf', '#a262a9', '#6f4d96'] }
       }];
-      
-      var layout = {
-        height: 400,
-        width: 500
-      };
-        Plotly.newPlot("graph", data, layout);*/
-
-
+      var layout1 = {
+        title: 'Restaurants by Ratings',
+        xaxis:{title:{text:'Restaurant Count'}},
+        yaxis:{title:{text:'Ratings'}},
+        annotations: 
+          {
+            font: {
+              size: 20
+            },
+            showarrow: false,
+            text: '',
+            x: 0.17,
+            y: 0.5
+          },
+          height: 400,
+          width: 500,
+                       
+        };
+         Plotly.plot('graph1', data1,layout1);
         var data = [{
             values: gdata[0]["Rcount"],
             labels: gdata[0]["Rating"],
@@ -48,45 +60,92 @@ function buildPlot() {
               },
               height: 400,
               width: 500,
-              showlegend: true,
-              
-              //grid: {rows: 1, columns: 2}
+              showlegend: true,             
             };
             
-            Plotly.newPlot('graph', data, layout);
+            Plotly.newPlot('graph', data,layout);
             
-    }else if(e=='category'){
-      var trace2 = {
-        x: gdata[1]["Category"],
-        y: gdata[1]["fcount"],
-        text:gdata[1]["Category"],
-        mode: 'markers+text',
-        marker: {
-          size:gdata[1]["fcount"],
-          color:'rgb(255, 65, 54)',
-            
-          type:"bubble"              
+    }
+    else if(e=='category')
+    {
+
+      var data = [
+        {
+          x:gdata[1]["Category"],
+          y: gdata[1]["fcount"],
+          type: 'bar'
         }
-        };
-      
-        var data = [trace2];
-      
+      ];      
         var layout = {
-            xaxis: {
-                showticklabels: false,
-                },
+            
             title: 'Count of Restaurants by food category',
             height: 500,
             width: 600,
-            showlegend: false,
-            
-          
-          
+            showlegend: false,          
         };
         Plotly.newPlot("graph", data, layout);
-        
-        
+    }
+    else if(e=='Top')
+    {
+      var data = [
+        {
+          x:gdata[2]["Name"],
+          y: gdata[2]["Rating"],
+          type: 'bar',
+          marker: {color : ['#f3cec9', '#e7a4b6', '#cd7eaf', '#a262a9', '#6f4d96', '#3d3b72', '#182844']},
+ 
+        }
+      ];      
+        var layout = {
+          colorway : ['#f3cec9', '#e7a4b6', '#cd7eaf', '#a262a9', '#6f4d96', '#3d3b72', '#182844'],
+            title: 'Best Restaurants in Toronto',
+            height: 500,
+            width: 600,
+            showlegend: false,          
+        };
+        Plotly.newPlot("graph", data, layout);
 
+    }
+    else if(e=='ctop')
+    {
+      var data = [
+        {
+          x:gdata[3]["fcategory"],
+          y: gdata[3]["count"],
+          type: 'bar',
+          marker: {color : ['#f3cec9', '#e7a4b6', '#cd7eaf', '#a262a9', '#6f4d96', '#3d3b72', '#182844']},
+ 
+        }
+      ];      
+        var layout = {
+          
+            title: 'Top 10 Food Category',
+            height: 500,
+            width: 600,
+            showlegend: false,          
+        };
+        Plotly.newPlot("graph", data, layout);
+
+    }
+    else if(e=='low')
+    {
+      var data = [
+        {
+          x:gdata[4]["Name"],
+          y: gdata[4]["Rating"],
+          type: 'bar',
+          marker: {color : ['red', '#e7a4b6', 'yellow', '#a262a9', 'green', '#3d3b72']},
+ 
+        }
+      ];      
+        var layout = {
+          colorway : ['#f3cec9', '#e7a4b6', '#cd7eaf', '#a262a9', '#6f4d96', '#3d3b72', '#182844'],
+            title: 'Worst Restaurants in Toronto',
+            height: 500,
+            width: 600,
+            showlegend: false,          
+        };
+        Plotly.newPlot("graph", data, layout);
 
     }
     }

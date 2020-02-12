@@ -70,6 +70,13 @@ def display():
     data=[]
     fcat=[]
     fcount=[]
+    name=[]
+    rt=[]
+    fcat1=[]
+    fcount1=[]
+    name1=[]
+    rt1=[]
+
     
     cur.execute("select rating,count(rname)as count from yelpdata1 group by rating")
     rows = cur.fetchall()
@@ -88,7 +95,28 @@ def display():
         fcat.append(row[0])
         fcount.append(row[1])
 
-    data=[{"Rating":rating,"Rcount":rcount},{"Category":fcat,"fcount":fcount}]
+    cur.execute("select rname, rating from yelpdata1 where rating=5 or rating=4.5 fetch first 10 rows only")
+    rows = cur.fetchall()
+
+    for row in rows:
+        name.append(row[0])
+        rt.append(row[1])
+
+    cur.execute("select fcategory,count(rname) as ct from yelpdata1 group by fcategory order by ct desc fetch first 10 rows only")
+    rows = cur.fetchall()
+
+    for row in rows:
+        fcat1.append(row[0])
+        fcount1.append(row[1])
+
+    cur.execute("select rname, rating from yelpdata1 where rating in (1,1.5,2,2.5)")
+    rows = cur.fetchall()
+
+    for row in rows:
+        name1.append(row[0])
+        rt1.append(row[1])
+
+    data=[{"Rating":rating,"Rcount":rcount},{"Category":fcat,"fcount":fcount},{"Name":name,"Rating":rt},{"fcategory":fcat1,"count":fcount1},{"Name":name1,"Rating":rt1}]
 
     return jsonify(data)
 
