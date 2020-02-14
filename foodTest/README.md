@@ -29,22 +29,22 @@ Created a visualizations and Maps using the JavaScripts, D3, Leaflet.
 
 ## <a name="file"></a>File Structure
 
- Food'R'Us Folder
-	* app.py (python file which has routs to direct diffrent pages)
-	* templets Folder
-		* page2.html
-		* index.html
-		* map.html
-		* form.html
-	* static Folder
-		* css Folder
-			* style.css
-		* js Folder
-			* app.js
-			* logic.js
-			* config.js
-		* data Folder
-			* yelp.geojson
+Food'R'Us Folder
+* app.py (python file which has routs to direct diffrent pages)
+* templets Folder
+	# page2.html
+	# index.html
+	* map.html
+	* form.html
+* static Folder
+	* css Folder
+		* style.css
+	* js Folder
+		* app.js
+		* logic.js
+		* config.js
+	* data Folder
+		* yelp.geojson
 
 
 ##  <a name="Run"></a>Running the project
