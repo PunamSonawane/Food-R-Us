@@ -32,8 +32,8 @@ Created a visualizations and Maps using the JavaScripts, D3, Leaflet.
 Food'R'Us Folder
 * app.py (python file which has routs to direct diffrent pages)
 * templets Folder
-	# page2.html
-	# index.html
+	* page2.html
+	* index.html
 	* map.html
 	* form.html
 * static Folder
