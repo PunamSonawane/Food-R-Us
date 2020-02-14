@@ -11,13 +11,6 @@ body {
   background-color: white !important;
 }
 
-.well {
-  height: 125px;
-  border: 1px solid #c2c2c2;
-  background: none;
-  color: #222222;
-}
-
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
   position: relative;
@@ -86,7 +79,7 @@ select {
 }
 
 button {
-  width: 102px;
+  width: 100px;
 }
 
 /*set map, body, and html to 100% of the screen size */

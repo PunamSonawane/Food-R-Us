@@ -1,6 +1,6 @@
 // Read our converted yelp GeoJson File
 
-var url = "static/data/yelp.geojson";
+var url = './static/data/yelp.geojson'
 
 d3.json(url,function(data) {
   
@@ -403,7 +403,21 @@ function createMap(restaurants) {
               });
             }
           });
+          var arcade=L.geoJson(restaurants,{
+            filter:function(feature,layer){
+              return feature.properties.fcategory=="Arcades";
+            },
+            pointToLayer:function(feature,latlng){
+              return L.marker(latlng,{
+                
+              }).on('mouseover',function(){
+                this.bindPopup("<h3>" + feature.properties.rname +
+                "</h3><hr><p>" + feature.properties.fcategory + "</p>"+"<p>"+feature.properties.Rating+"</p>").openPopup();
+              });
+            }
+          });
  
+         
 //console.log(markersC);
   // Create our map, giving it the streetmap and earthquakes layers to display on load
   var myMap = L.map("map", {
@@ -414,7 +428,7 @@ function createMap(restaurants) {
     layers: [streetmap]
   });
    const myIcon = L.icon({
-    iconUrl: 'static/css/assets/images/marker_icon.png',
+    iconUrl: '../../static/css/assets/images/marker_icon.png',
     iconSize: [36, 45],
     iconAnchor: [15, 35]
 });
@@ -445,6 +459,7 @@ korean.addTo(myMap);
 ramen.addTo(myMap);
 french.addTo(myMap);
 greek.addTo(myMap);
+arcade.addTo(myMap);
  // Define a baseMaps object to hold our base layers
  var baseMaps = {
   "Street Map": streetmap,
@@ -766,6 +781,20 @@ $("#greeks").click(function() {
 });
   myMap.addLayer(greek);
 })
+
+$("#arcades").click(function() {
+  myMap.eachLayer(function (layer) {
+    myMap.removeLayer(layer);
+    myMap.addLayer(streetmap);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+    
+      var geomarker = L.marker((latlng), {icon: myIcon}).addTo(myMap);
+    });
+});
+myMap.addLayer(arcade);
+})
+
 };
 
 
