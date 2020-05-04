@@ -14,18 +14,40 @@ This Application allows us to check the Restaurants on Map and with diffrent cat
  For this project dataset is collected from yelp fusion API in JSON format and tranfered the data in Postgresql. Flask 'a light weight framework' to make a API 'Application Process Interface'
 to make request to the server to get the data from the database and send the response to the front end. app.py is the python application file which makes routs to direct the response to the user.
 Created a visualizations and Maps using the JavaScripts, D3, Leaflet. 
- 
-* Restaurants by Ratings Pie chart
+
+### Feature Description
+
+**Home page:** User will find the links for the restaurants catlog, map, and reservation on Home Page. And user will find the reviews from customer on home page.
+  ![Home](./Images/home1.PNG)
+  <br>
+  ![Home](./Images/home2.PNG)
+  <br>
+  ![Home](./Images/home.PNG)
+  <br>
+**Restaurants catlog:** User will find list of all the restaurants details and visualization which gives analytical view to the user to select restaurants by top food category, top restauants by ratings etc.
+  ![Restaurants catlog](./Images/resto_catlog.PNG)
+  <br>
 
 * Restaurants by Cuisine Bar chart
+  ![Restaurants catlog](./Images/v1.PNG)
+  <br>
 
 * Best Restaurants in Toronto Bar chart
+  ![Restaurants catlog](./Images/v2.PNG)
+  <br>
 
 * Best Restaurants by Cuisine Bar chart
+  ![Restaurants catlog](./Images/v3.PNG)
+  <br>
 
-* Worst Restaurants by Ratings Bar chart
+**Map:** Map shows Restaurants by Cuisine and Ratings
+  ![Map](./Images/map.PNG)
+  <br>
 
-* Map shows Restaurants by Cuisine and Ratings
+**Reservation Finder:** User can make Reservations with this form.
+  ![Reservation](./Images/rsv.PNG)
+  <br>
+
 
 ## <a name="file"></a>File Structure
 
