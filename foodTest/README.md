@@ -18,34 +18,34 @@ Created a visualizations and Maps using the JavaScripts, D3, Leaflet.
 ### Feature Description
 
 **Home page:** User will find the links for the restaurants catlog, map, and reservation on Home Page. And user will find the reviews from customer on home page.
-  ![Home1](/Images/home1.PNG)
+  ![Home1](/img/home1.PNG)
   <br>
-  ![Home2](/Images/home2.PNG)
+  ![Home2](/img/home2.PNG)
   <br>
-  ![Home3](/Images/home.PNG)
+  ![Home3](/img/home.PNG)
   <br>
 **Restaurants catlog:** User will find list of all the restaurants details and visualization which gives analytical view to the user to select restaurants by top food category, top restauants by ratings etc.
-  ![Restaurants catlog](/Images/resto_catlog.PNG)
+  ![Restaurants catlog](/img/resto_catlog.PNG)
   <br>
 
 * Restaurants by Cuisine Bar chart
-  ![Restaurants catlog](/Images/v1.PNG)
+  ![Restaurants catlog](/img/v1.PNG)
   <br>
 
 * Best Restaurants in Toronto Bar chart
-  ![Restaurants catlog](/Images/v2.PNG)
+  ![Restaurants catlog](/img/v2.PNG)
   <br>
 
 * Best Restaurants by Cuisine Bar chart
-  ![Restaurants catlog](Images/v3.PNG)
+  ![Restaurants catlog](/img/v3.PNG)
   <br>
 
 **Map:** Map shows Restaurants by Cuisine and Ratings
-  ![Map](/Images/map.PNG)
+  ![Map](/img/map.PNG)
   <br>
 
 **Reservation Finder:** User can make Reservations with this form.
-  ![Reservation](/Images/rsv.PNG)
+  ![Reservation](/img/rsv.PNG)
   <br>
 
 
