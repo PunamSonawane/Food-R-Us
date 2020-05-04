@@ -18,7 +18,7 @@ Created a visualizations and Maps using the JavaScripts, D3, Leaflet.
 ### Feature Description
 
 **Home page:** User will find the links for the restaurants catlog, map, and reservation on Home Page. And user will find the reviews from customer on home page.
-  ![Home](./assets/home1.PNG)
+  ![Home](home1.PNG)
   <br>
   ![Home](./assets/home2.PNG)
   <br>
