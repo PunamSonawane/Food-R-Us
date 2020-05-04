@@ -17,7 +17,7 @@ Created a visualizations and Maps using the JavaScripts, D3, Leaflet.
 
 ### Feature Description
 
-**Home page:** User will find the links for the restaurants catlog, map, and reservation on Home Page. And user will find the reviews from customer on home page.
+- **Home page:** User will find the links for the restaurants catlog, map, and reservation on Home Page. And user will find the reviews from customer on home page.
   ![Home1](./img/home1.PNG)
   <br>
 
@@ -26,6 +26,7 @@ Created a visualizations and Maps using the JavaScripts, D3, Leaflet.
 
   ![Home3](img/home.PNG)
   <br>
+
 **Restaurants catlog:** User will find list of all the restaurants details and visualization which gives analytical view to the user to select restaurants by top food category, top restauants by ratings etc.
   ![Restaurants catlog](https://github.com/PunamSonawane/Food-R-Us/blob/master/img/resto_catlog.PNG)
   <br>
